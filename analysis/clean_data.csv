@@ -9,7 +9,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20245694,Herzele,9550,198800,House,3,125,Stationsstraat,173,50.8945675,3.8843418,0,0,1,45,106,Semi equipped,2,To renovate,0,F,1590.4
 20250831,Wilrijk,2610,299000,House,3,132,Egied Segerslaan,42,51.1772667,4.3753687,0,0,0,0,40,null,2,As new,0,D,2265.151515151515
 20250541,Brecht,2960,469000,House,3,153,Cambeenbos Laan D,3,51.3100174,4.5751228,1,0,1,0,0,Semi equipped,4,To renovate,0,D,3065.359477124183
-20252349,Herent,3020,890000,Villa,5,240,Nan,15,50.90918929999999,4.6572688,0,0,1,50,624,null,4,Just renovated,0,A,3708.3333333333335
 20246830,Niel,2845,284000,House,3,148,Schuttershofstraat,49,51.1081012,4.3239722,0,0,0,0,28,Installed,2,Good,0,C,1918.918918918919
 20246074,Roeselare,8800,339000,House,3,164,Weststraat,131,50.9481829,3.1109998,0,0,1,15,40,Installed,3,Good,0,A,2067.0731707317073
 20246399,Merksem,2170,349000,Town house,3,193,Bredabaan,816B,51.25249789999999,4.4569918,0,0,0,0,53,Installed,2,To be done up,0,D,1808.2901554404145
@@ -35,13 +34,11 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20251182,Aalter,9880,379000,House,3,182,Manewaarde,22,51.0959886,3.4318261,0,0,1,0,631,Installed,4,Good,0,D,2082.4175824175823
 20251947,Brunehaut,7623,469000,Villa,3,200,Chemin De Rumegies,6,50.4917042,3.3768263,0,0,1,0,0,Installed,4,Good,0,C,2345.0
 20252355,Kaster,8572,598000,Villa,3,200,Bevrijdingslaan,80a,50.8139108,3.4933341,0,1,1,0,0,Installed,4,Good,0,B,2990.0
-20249750,Woluwe-Saint-Pierre,1150,815000,House,5,270,Avenue Van Crombrugghe,190,50.8303264,4.464635299999999,0,0,1,20,175,Hyper equipped,3,As new,0,D,3018.5185185185187
 20245482,Sint-Gillis-Waas,9170,415000,House,2,155,Aststraat,42,51.2135591,4.1147473,1,0,1,30,210,Installed,0,Good,0,C,2677.4193548387098
 20244687,Oosterzele,9860,455000,House,3,147,Poststraat,46,50.9223051,3.7899441,0,0,1,16,77,Hyper equipped,3,Just renovated,0,A,3095.2380952380954
 20242318,Bruxelles,1120,477000,House,5,186,Rue Des Faînes,214,50.8903457,4.3860201,1,0,1,30,120,null,2,As new,0,D,2564.516129032258
 20244297,Sprimont,4140,298000,House,4,242,Rue Du Centre,32,50.5041015,5.662092599999999,0,0,1,80,147,Installed,2,Good,0,F,1231.404958677686
 20236559,Brecht,2960,479000,Villa,4,226,Cambeenbos Laan B,36,51.3110383,4.5698392,0,0,0,0,780,Installed,4,To be done up,0,D,2119.4690265486724
-20238170,Berchem,2600,849000,House,4,232,Floraliënlaan,429,51.1801052,4.4272497,0,0,0,0,70,Hyper equipped,2,Just renovated,0,A,3659.4827586206898
 20247460,De Pinte,9840,375000,House,3,149,Langevelddreef,73,51.0020144,3.644326999999999,0,0,1,0,361,null,0,Good,0,D,2516.778523489933
 20250986,Zwalm,9630,525000,House,6,357,Heuvelgem,30,50.8433509,3.729519,0,0,0,0,0,Installed,4,Good,0,D,1470.5882352941176
 20250129,Antwerpen Borgerhout,2140,625000,Town house,3,180,Milisstraat,79,51.2138637,4.4294568,0,0,1,11,53,Hyper equipped,2,As new,0,B,3472.222222222222
@@ -234,12 +231,10 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20245703,Buggenhout,9255,449000,House,3,203,Ravenstraat,78,50.9925209,4.1807852,0,0,1,0,0,Hyper equipped,3,Just renovated,0,B,2211.822660098522
 20244610,Gentbrugge,9050,467000,House,3,146,Rode-Kruisstraat,5-9,51.0284723,3.764137499999999,0,0,1,0,100,Hyper equipped,2,As new,0,null,3198.6301369863013
 20244658,Gent Sint-Amandsberg,9040,495000,House,3,167,Kunstenaarstraat,35,51.0515409,3.7467804,0,0,0,0,45,Installed,2,As new,0,B,2964.0718562874254
-20246109,Zoersel,2980,835000,House,6,308,Otterdreef,19,51.2536735,4.623406699999999,0,1,1,20,0,Hyper equipped,4,As new,0,B,2711.038961038961
 20241396,Deerlijk,8540,149000,House,2,145,Vichtesteenweg,264,50.8447374,3.3830052,0,0,0,0,260,null,3,To be done up,0,D,1027.5862068965516
 20240193,Oudenaarde,9700,325000,House,3,146,Mgr. Lambrechtstraat,58,50.8774577,3.6549786,0,0,1,0,0,null,0,Good,0,A,2226.027397260274
 20241548,Meulebeke,8760,330000,House,3,174,Oude Gentstraat,53,50.9505202,3.2961076,0,0,1,0,0,Installed,0,Just renovated,0,B,1896.551724137931
 20241193,Loppem,8210,429000,House,5,163,Bakkershoflaan,11,51.1512274,3.1943631,0,0,1,0,300,Installed,3,As new,0,C,2631.9018404907974
-20240840,Duffel,2570,839000,House,4,285,Kraanstraat,48,51.09274660000001,4.572415599999999,1,0,1,0,0,Installed,0,Good,0,A,2943.8596491228072
 20218732,Mechelen,2800,539000,House,4,153,Akelei,63,51.0208132,4.4737954,1,0,1,13,490,Installed,4,Good,0,C,3522.875816993464
 20244093,Evergem,9940,242000,House,3,119,August Vermeylenstraat,5,51.177152,3.7306505,0,0,0,0,0,null,0,To renovate,0,F,2033.6134453781513
 20243883,Berlaar,2590,295000,House,3,151,Montystraat,20,51.1164297,4.6428213,0,0,1,0,0,Installed,0,To be done up,0,F,1953.6423841059602
@@ -406,7 +401,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20248430,Oostende,8400,349000,House,7,250,Gerststraat,84,51.2173156,2.9100352,0,0,1,80,0,null,0,Good,0,B,1396.0
 20247015,Hooglede,8830,462300,House,3,149,Marie Curiestraat,24,50.9823447,3.0764881,0,0,1,0,0,null,0,Good,1,A,3102.6845637583892
 20250695,Marke,8510,545000,House,3,201,Verruestraat,1,50.8004778,3.2437124,1,0,1,0,0,null,0,Good,0,B,2711.442786069652
-20249578,Schilde,2970,875000,Villa,5,350,Ter Maelenbaan,27,51.2338707,4.5738115,1,1,1,0,0,Hyper equipped,4,Good,0,C,2500.0
 20228249,Gembloux,5030,450000,House,5,346,Chaussée De Tirlemont,51,50.575925,4.701982999999999,1,0,1,60,950,Semi equipped,2,Good,0,C,1300.578034682081
 20241185,Ronse,9600,139000,House,3,134,Opgeëistenstraat,107,50.75318499999999,3.5915658,0,0,1,0,0,null,0,To renovate,0,E,1037.313432835821
 20243289,Liège,4000,150000,House,2,77,Rue Fond Des Tawes,136,50.6566073,5.5904418,0,0,1,16,95,Semi equipped,3,To be done up,0,D,1948.051948051948
@@ -439,14 +433,12 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20239997,Ruisbroek,1601,295000,House,3,96,Reystraat,15,50.78645479999999,4.2947815,0,0,1,0,120,Installed,0,null,0,F,3072.9166666666665
 20241799,Berlaar,2590,295000,House,3,157,Heistsebaan,14,51.0841268,4.6710049,0,0,1,0,0,null,3,To renovate,0,E,1878.9808917197452
 20241182,Kumtich,3300,319000,House,3,220,Hoxemsesteenweg,11,50.8131508,4.8851907,0,0,1,50,160,Not installed,2,To renovate,0,D,1450.0
-20241058,Brugge,8000,320000,House,2,78,Visspaanstraat,32,51.2018147,3.2287355,0,0,0,0,0,null,2,Good,0,C,4102.5641025641025
 20240737,Rijkevorsel,2310,329000,House,5,193,Prinsenpad,75,51.3463286,4.7525992,0,0,1,0,0,Installed,4,Good,0,F,1704.6632124352332
 20241795,Kapellen,2950,329000,House,3,139,Bergstraat,83,51.315233,4.4217944,0,0,1,0,0,Installed,3,Good,0,E,2366.906474820144
 20240907,Haaltert,9450,359000,Town house,4,195,Kerkskenhoek,68,50.89279,3.9954579,0,0,1,15,0,Hyper equipped,3,As new,0,B,1841.025641025641
 20241913,Oostkamp,8020,405000,Bungalow,4,140,Jan Breidelstraat,13,51.1442505,3.2319596,0,0,1,35,0,null,0,To renovate,0,F,2892.8571428571427
 20241366,Sint-Niklaas,9100,425000,House,4,167,Puitvoetstraat,189,51.142877,4.165629,0,0,1,0,0,Hyper equipped,3,As new,0,B,2544.9101796407185
 20239950,Heusden,9070,765000,House,4,202,Blauwesteenstraat,74,51.0356357,3.8123459,0,0,0,0,849,Hyper equipped,0,Just renovated,0,A,3787.128712871287
-20240738,Zedelgem,8211,815000,Villa,5,227,Litterveldstraat,8,51.1238658,3.1119339,0,0,1,0,0,Installed,4,As new,0,B,3590.308370044053
 20232249,La Louvière,7100,225000,House,3,155,Rue De L'Yser,2,50.5130437,4.1942011,0,0,1,25,0,Installed,4,To renovate,0,G,1451.6129032258063
 20229862,Lierde,9570,275000,House,3,226,Opstaldries,2,50.8025603,3.8253919,0,0,1,0,0,Installed,0,Good,0,C,1216.8141592920354
 20228134,Jauche,1350,325000,House,3,244,Avenue Adrien Stas,13,50.6856128,4.9492657,0,0,1,50,348,Installed,3,Good,0,E,1331.967213114754
@@ -520,7 +512,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20228446,Boom,2850,665000,House,6,273,Groene Hofstraat,33,51.0851532,4.364650999999999,0,1,1,0,12,null,0,Good,0,B,2435.897435897436
 20243879,Beerzel,2580,318000,House,3,247,Heiststeenweg,7,51.05783599999999,4.6724806,0,0,1,0,0,Installed,0,To renovate,0,F,1287.4493927125507
 20243912,Lokeren,9160,399000,Town house,3,201,Knaptandstraat,25,51.1004359,3.9838333,0,0,1,11,70,Installed,2,As new,0,B,1985.0746268656717
-20243829,Haasdonk,9120,830000,House,3,269,Zandstraat,174,51.1925205,4.2357338,0,1,1,0,0,null,0,As new,0,B,3085.5018587360596
 20214452,Heffen,2801,419000,House,4,154,Steenweg Op Heindonk,26,51.0489304,4.4201856,0,0,0,0,450,Semi equipped,3,To renovate,0,F,2720.779220779221
 20204527,Heestert,8551,340000,House,5,255,Vierkeerstraat,153,50.7915461,3.4004338,0,0,1,45,600,Semi equipped,4,To renovate,0,F,1333.3333333333333
 20235915,Izegem,8870,169000,House,3,135,Nederweg,105,50.9219877,3.2058903,0,0,1,0,0,Installed,0,Just renovated,0,D,1251.851851851852
@@ -562,7 +553,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20234023,Kluisbergen,9690,349000,House,3,148,Pontstraat,58,50.794988,3.5180319,0,0,0,0,0,null,2,As new,0,A,2358.108108108108
 20236267,Ronse,9600,424000,House,6,360,Stooktstraat,54 en 56,50.7371922,3.601639199999999,0,0,1,50,500,null,4,To renovate,0,D,1177.7777777777778
 20234950,Berlare,9290,485000,House,3,160,Koffiestraat,16,51.0191347,3.955310699999999,0,0,1,0,0,Hyper equipped,4,As new,0,D,3031.25
-20233251,Schaerbeek,1030,850000,House,6,385,Rue Colonel Bourg,66,50.851869,4.4061854,0,0,1,34,275,Hyper equipped,2,As new,0,E,2207.7922077922076
 20245995,Hamoir,4180,239000,Bungalow,3,117,Allée Du Domaine,89,50.44769609999999,5.5596364,0,0,1,0,0,Installed,4,To renovate,0,G,2042.7350427350427
 20244745,Grimbergen,1850,325000,House,1,135,Grote Kerkvoetweg,15,50.938607,4.3882423,0,0,1,0,0,Semi equipped,3,To renovate,0,F,2407.4074074074074
 20246377,Willebroek,2830,369000,House,4,188,Breendonkstraat,281,51.0440516,4.338181899999999,0,0,1,430,0,Installed,3,Good,0,D,1962.7659574468084
@@ -579,8 +569,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20240502,Beerse,2340,549000,House,3,268,Busselen,36,51.3247362,4.8473289,0,0,1,0,0,null,3,Good,0,B,2048.507462686567
 20243135,Zottegem,9620,549000,House,5,363,Gaverland,70,50.8409007,3.8314896,0,0,1,0,0,null,4,As new,0,C,1512.396694214876
 20240741,Steenokkerzeel,1820,639000,House,3,170,Wilgenlaan,21,50.9279409,4.5092736,0,0,1,0,0,Installed,4,Good,1,D,3758.823529411765
-20241483,Halle,1500,850000,House,4,302,Ninoofsesteenweg,20,50.7370235,4.2355624,0,0,1,0,0,null,4,As new,0,C,2814.569536423841
-20241481,Pepingen,1670,850000,House,4,302,Ninoofsesteenweg,20,50.7533444,4.177957999999999,0,0,1,0,0,null,4,As new,0,C,2814.569536423841
 20248583,Sint-Truiden,3800,262166,House,3,144,Gulden Bodem,32,50.8019192,5.2202655,0,0,0,0,0,Installed,0,Good,0,null,1820.5972222222222
 20248586,Sint-Truiden,3800,273870,House,3,187,Gulden Bodem,35,50.8019192,5.2202655,0,0,0,0,0,Installed,0,Good,0,null,1464.5454545454545
 20248584,Sint-Truiden,3800,273870,House,3,181,Gulden Bodem,31,50.8019192,5.2202655,0,0,0,0,0,Installed,0,Good,0,null,1513.0939226519338
@@ -608,7 +596,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20240336,Denderleeuw,9470,350000,House,3,110,Rozenlaan,32,50.8923522,4.0766225,0,0,1,0,0,null,4,To be done up,0,F,3181.818181818182
 20240493,Gent,9000,435000,House,5,181,Harelbekestraat,18,51.0283235,3.7314812,0,0,1,33,0,Installed,2,To be done up,0,B,2403.314917127072
 20238299,Oostkamp,8020,449000,Bungalow,3,160,Terluchtestraat,29,51.0990607,3.2111178,0,0,1,0,0,Installed,4,Good,0,C,2806.25
-20239827,Gent,9050,499000,House,2,120,Scheldekaai,23,51.0419999,3.7427739,0,0,1,30,23,Installed,2,Good,0,C,4158.333333333333
 20238404,Maldegem,9990,625000,Villa,3,155,Polenlaan,5,51.19022500000001,3.4964023,0,0,0,0,0,null,4,Good,0,A,4032.2580645161293
 20251934,Herentals,2200,225000,House,1,76,Klein Rossem,5,51.1554621,4.819234,0,0,1,0,0,null,3,null,0,F,2960.5263157894738
 20251396,Brugge,8380,275000,Villa,3,158,Rouaanstraat,40,51.3277328,3.193239600000001,0,0,0,0,0,Semi equipped,4,To renovate,0,F,1740.506329113924
@@ -662,7 +649,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20225555,Dinant,5500,279000,House,3,155,Rue Du Grand Cortil,5,50.1983438,4.8997987,1,0,1,16,1868,null,4,Good,0,E,1800.0
 20225694,Oosterzele,9860,469000,House,4,215,Poststraat,2,50.9252647,3.7865175,0,0,0,0,0,Installed,4,Good,0,C,2181.3953488372094
 20225882,Linkebeek,1630,560000,House,4,212,Brouwerijstraat,29,50.7780528,4.327891500000001,0,0,0,0,90,Not installed,2,Good,0,C,2641.509433962264
-20225794,Lo-Reninge,8647,899000,House,4,274,Clamarastraat,11,50.98872009999999,2.7298916,0,1,1,30,5164,null,4,As new,0,B,3281.021897810219
 20236276,Vivegnis,4683,145000,House,1,65,Rue César De Paepe,10,50.6978251,5.653438599999999,0,0,1,35,330,Installed,2,Good,0,D,2230.769230769231
 20239821,Torhout,8820,175000,House,3,113,Meibosstraat,43,51.0528384,3.0996459,0,0,0,0,0,null,3,Good,0,F,1548.6725663716813
 20238686,Aalst,9300,239000,House,4,120,Sint Jozefstraat,10,50.9406461,4.033176,0,0,1,0,0,Installed,2,Good,0,C,1991.6666666666667
@@ -690,7 +676,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20227690,Zaventem,1930,490000,House,3,140,Kouterlaan,89,50.8750945,4.4811744,0,0,1,13,260,Installed,3,Good,0,C,3500.0
 20228492,Affligem,1790,495000,Bungalow,3,285,Fosselstraat,52,50.9165465,4.1127551,0,0,1,0,0,Hyper equipped,4,As new,0,D,1736.842105263158
 20228472,Wezembeek-Oppem,1970,747000,Villa,4,195,Avenue Bel-Air,77,50.8403967,4.4781776,0,0,1,10,250,Not installed,4,To renovate,0,F,3830.769230769231
-20228137,Lanaken,3620,898000,Villa,4,370,Fazantenlaan,5,50.9228715,5.6697881,0,0,0,0,2842,null,4,Good,0,B,2427.027027027027
 20242754,Rumbeke,8800,335000,House,3,148,Rode-Beukenstraat,5,50.9281593,3.1284923,0,0,1,60,300,null,0,null,0,C,2263.5135135135133
 20243454,Gent,9000,450000,House,6,240,Bevrijdingslaan,66,51.0611346,3.7012968,0,0,0,0,70,null,2,Good,0,null,1875.0
 20243406,Dilbeek,1702,489000,House,3,128,Tengaerdestraat,18,50.8722594,4.2566714,0,0,1,22,0,Hyper equipped,3,As new,0,B,3820.3125
@@ -723,7 +708,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20246203,Gent,9040,349000,House,2,87,Scaldisstraat,21,51.0493843,3.7617024,0,0,1,0,0,Hyper equipped,2,Good,0,B,4011.4942528735633
 20246213,Holsbeek,3220,455000,House,3,250,Leuvensebaan,66,50.91619129999999,4.745644599999999,0,0,1,0,0,Semi equipped,4,To be done up,0,C,1820.0
 20245304,Sint-Pieters-Leeuw,1602,465000,Bungalow,2,200,Pedestraat,32,50.8103344,4.228977299999999,0,0,0,0,0,null,4,null,0,D,2325.0
-20247115,Forest,1190,895000,House,4,227,Rue Berkendael,49,50.8179789,4.3467262,0,0,1,24,0,Hyper equipped,2,As new,0,E,3942.7312775330397
 20225509,Hastière,5540,295000,Villa,5,240,Rue De France,57,50.1943305,4.8223711,0,0,1,18,673,null,4,Good,0,D,1229.1666666666667
 20240137,Harelbeke,8530,285000,House,3,218,Zandbergstraat,148,50.8379477,3.2878715,0,0,1,0,0,null,0,Good,0,B,1307.3394495412845
 20237786,Eeklo,9900,335000,House,4,175,Hendrik Consciencestraat,30,51.1760741,3.5707336,0,0,1,15,0,Hyper equipped,2,Just renovated,0,B,1914.2857142857142
@@ -746,8 +730,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20220541,Hoboken,2660,265000,House,2,145,Notelaarstraat,73,51.1768472,4.3559624,0,0,0,0,82,null,2,To be done up,0,E,1827.5862068965516
 20218773,Antwerpen,2060,369000,House,7,329,Pothoekstraat,4,51.2204378,4.4363168,0,0,1,6,0,null,2,To be done up,0,C,1121.580547112462
 20221048,Grez-Doiceau,1390,650000,House,6,300,Rue Gilles Dagneau,3,50.7181271,4.722780800000001,0,0,1,0,0,Installed,4,Good,0,C,2166.6666666666665
-20219933,Wetteren,9230,895000,Villa,3,357,Smetledesteenweg,39,50.99671439999999,3.8960999,1,0,1,0,1089,Usa hyper equipped,4,null,0,B,2507.002801120448
-20220651,Brasschaat,2930,899000,Villa,4,291,Hemelakkers,10,51.28728109999999,4.4894649,0,0,1,0,0,Installed,4,Good,0,B,3089.3470790378005
 20249508,Deinze,9800,349001,House,3,165,Bremkouter,20-28,50.9854895,3.5856772,0,0,0,0,0,Installed,2,As new,0,null,2115.1575757575756
 20231677,Ronse,9600,249000,House,4,125,Lorettestraat,1,50.7497256,3.6253193,0,0,0,0,0,Installed,3,Good,0,C,1992.0
 20232240,Zottegem,9620,349000,Bungalow,3,167,Leeuwergemstraat,24,50.8885266,3.8364716,0,0,0,0,0,null,4,To be done up,0,D,2089.820359281437
@@ -769,7 +751,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20235941,Zottegem,9620,575000,Villa,3,255,Smissenhoek,77,50.8442255,3.8235812,0,0,0,0,0,null,0,Good,0,A,2254.901960784314
 20235879,Opvelp,3360,650000,House,4,213,Hoegaardsesteenweg,13,50.8081213,4.795195,0,0,1,0,0,Hyper equipped,0,Good,0,A,3051.6431924882627
 20235976,Melle,9090,699000,House,4,390,Driesstraat,109,51.0057988,3.7869537,0,0,1,0,0,Installed,0,null,0,B,1792.3076923076924
-20237737,Zulte,9870,849000,House,4,378,Staatsbaan,228,50.91864690000001,3.4386031,0,0,0,0,0,Installed,4,Good,0,C,2246.031746031746
 20214991,Serskamp,9260,169000,House,3,122,Rozenstraat,3,50.983625,3.9371897,0,0,1,0,93,null,2,To be done up,0,D,1385.2459016393443
 20214730,Sint-Amandsberg,9040,545000,House,3,216,Aannemersstraat,203,51.04995,3.751378099999999,0,0,1,40,145,Installed,0,Good,0,B,2523.1481481481483
 20213977,Auderghem,1160,649000,House,4,170,Jacques Bassem,74,50.8134276,4.4289454,0,0,1,15,87,Hyper equipped,2,Good,0,F,3817.6470588235293
@@ -825,7 +806,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20219906,Tielt,8700,229000,House,3,117,Wingensesteenweg,39,51.00686839999999,3.3207234,1,0,0,0,300,Semi equipped,4,To renovate,0,F,1957.2649572649573
 20218522,Vottem,4041,265000,House,3,104,Rue Des Fleurs,15,50.6701209,5.584248,0,0,1,85,0,Installed,3,Good,0,C,2548.076923076923
 20220622,Brasschaat,2930,495000,House,3,186,Paulusstraat,51,51.3009306,4.4670428,0,0,1,0,0,Installed,2,As new,0,B,2661.2903225806454
-20218739,Affligem,1790,890000,Villa,4,341,Blakmeers,22,50.9059567,4.1212918,0,0,1,0,3000,Installed,4,Good,0,D,2609.9706744868035
 20216031,Iddergem,9472,579900,House,4,254,Hoogstraat,126,50.87672,4.0419765,0,0,1,0,590,Installed,3,Good,0,B,2283.0708661417325
 20232127,Hulshout,2235,165000,House,3,149,Grote Baan,214,51.0736789,4.7986561,0,0,0,0,0,Semi equipped,3,To renovate,0,F,1107.3825503355704
 20233056,Koekelare,8680,165000,House,2,152,Hovaerestraat,17,51.0922454,2.9718652,0,0,0,0,0,null,4,Good,0,C,1085.5263157894738
@@ -897,7 +877,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20232614,Niel,2845,495000,House,4,175,Steenbakkerijen,41,51.1004911,4.3328663,0,0,1,0,0,null,0,Good,0,B,2828.5714285714284
 20234939,Dentergem,8720,528000,Villa,3,230,Tijputstraat,17,50.9637988,3.4087667,0,0,1,0,0,Hyper equipped,4,As new,0,C,2295.6521739130435
 20233997,Wemmel,1780,685000,House,0,274,Peter Benoitlaan,8,50.9068107,4.311412799999999,0,0,0,0,0,null,3,As new,0,C,2500.0
-20233552,Brussels,1000,895000,Villa,5,350,Avenue Swartenbrouck,15,50.88917319999999,4.3204345,0,0,1,0,300,Hyper equipped,4,To be done up,0,E,2557.1428571428573
 20212196,La Louvière,7100,238000,House,3,154,Rue Henri Aubry,17,50.47725870000001,4.2202937,0,0,1,30,80,Hyper equipped,2,Good,0,C,1545.4545454545455
 20213057,Hoboken,2660,299900,House,6,88,Berkenrodelei,37,51.1790817,4.3494345,0,0,1,14,55,Installed,2,Good,0,F,3407.9545454545455
 20245842,Schaerbeek,1030,398000,House,4,209,Rue Van Schoor,45,50.8687979,4.3670049,0,0,1,0,0,Not installed,2,To renovate,0,G,1904.3062200956938
@@ -937,8 +916,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20243632,Herent,3020,385000,House,3,159,Winkselsesteenweg,9,50.9064491,4.668709199999999,1,0,1,30,120,Installed,3,Good,0,D,2421.383647798742
 20148735,Ronse,9600,409000,Villa,4,197,Rode Mutslaan,34,50.7435507,3.5741264,0,0,1,30,485,Hyper equipped,4,Just renovated,0,D,2076.1421319796955
 20203709,Boechout,2531,495000,House,3,330,Weverstraat,16,51.1756946,4.522214,0,0,1,40,83,Installed,2,Good,0,F,1500.0
-20147571,Mechelen,2660,845000,Villa,2,318,Liersesteenweg,460,51.0520337,4.4808324,0,0,1,20,1488,Installed,4,Good,0,B,2657.2327044025155
-20171940,Muizen,2812,883000,Villa,3,320,Leuvensesteenweg,590 B,50.9988702,4.5253118,1,0,1,20,423,Installed,4,Good,0,C,2759.375
 20243889,Muizen,2812,518900,House,3,207,Rijmenamsesteenweg,17,51.0085172,4.539086699999999,0,0,1,0,0,Installed,0,To renovate,0,F,2506.763285024155
 20243885,Heist-Op-Den-Berg,2220,568000,House,5,272,Oude Liersebaan,48,51.0786324,4.7086077,0,0,1,0,0,Hyper equipped,0,null,0,B,2088.235294117647
 20225498,Florennes,5620,145000,Country cottage,2,55,Allée Des Pinsons,15,50.2118751,4.7443839,1,0,1,14,3294,null,0,Good,1,G,2636.3636363636365
@@ -967,13 +944,11 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20229368,Wichelen,9260,498000,House,4,271,Galgenberg,36,50.9884879,3.9246518,0,0,1,22,506,Installed,4,null,0,C,1837.638376383764
 20229533,Blaasveld,2830,619000,House,5,180,Ceresstraat,21,51.04848690000001,4.378881,0,0,1,15,95,Installed,3,null,0,A,3438.8888888888887
 20228403,Scheldewindeke,9860,645000,Villa,4,230,Pelgrim,40,50.9389081,3.7867723,1,0,1,0,0,Installed,3,Good,0,C,2804.3478260869565
-20228784,Etterbeek,1040,875000,House,4,233,Avenue Auguste Rodin,33,50.8271454,4.379673599999999,0,0,1,21,0,Hyper equipped,3,To be done up,0,G,3755.3648068669527
 20243241,Resteigne,6927,125000,Bungalow,2,50,Les Brûlins,141,50.0922035,5.1661096,0,0,0,0,330,Installed,0,null,0,null,2500.0
 20243303,Wetteren,9230,295000,House,2,137,Aard,6,51.0080408,3.8826136,0,0,1,0,0,Hyper equipped,2,As new,0,B,2153.284671532847
 20223057,Harelbeke,8530,155000,House,3,127,Deerlijksestraat,46,50.859569,3.319747,0,0,1,0,0,null,2,Good,0,E,1220.4724409448818
 20223064,Zwevegem,8550,195000,House,2,146,Deerlijkstraat,4,50.8137379,3.3342101,0,0,1,20,0,Installed,2,Good,0,B,1335.6164383561643
 20222129,Oudenaarde,9700,265000,House,2,158,Prins Leopoldstraat,39,50.8479362,3.6117135,0,0,0,0,145,null,2,To be done up,0,C,1677.2151898734178
-20220947,Herent,3020,885000,Villa,3,237,Grote Molenweg,90B,50.8912005,4.6626863,0,0,1,32,1000,Hyper equipped,0,Just renovated,0,C,3734.1772151898736
 20236570,Aalst,9300,385000,House,5,180,Pieter Daensstraat,18,50.946093,4.0475452,0,0,1,16,285,Hyper equipped,2,Good,0,C,2138.8888888888887
 20234554,Antwerpen,2100,597000,House,5,242,Jozef Libertstraat,13,51.1964133,4.4565215,0,0,1,18,63,Installed,2,As new,0,A,2466.9421487603304
 20235550,Aartselaar,2630,599000,House,3,211,Halfstraat,13,51.12165479999999,4.372179,0,0,1,150,600,Hyper equipped,3,As new,0,B,2838.862559241706
@@ -987,7 +962,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20230572,Kluisbergen,9690,595000,Country cottage,2,205,Stoutegemstraat,19,50.7805685,3.5176696,0,0,0,0,0,Not installed,4,To renovate,0,F,2902.439024390244
 20235670,Avelgem,8580,650000,House,2,225,Doorniksesteenweg,151,50.7689889,3.4436404,0,0,1,0,0,Hyper equipped,2,Good,0,B,2888.8888888888887
 20233357,Waterloo,1410,675000,Villa,5,225,Clos Des Campanules,16,50.7300824,4.3822404,1,0,0,0,1250,Hyper equipped,4,Just renovated,0,C,3000.0
-20235225,Schilde,2970,848000,House,3,300,Mosthoevendreef,2,51.2635348,4.613860799999999,0,0,1,0,1200,null,4,Good,0,C,2826.6666666666665
 20211742,Edegem,2650,265000,House,4,187,Minervastraat,99,51.1695583,4.438734,0,0,1,15,0,null,3,To renovate,0,F,1417.1122994652405
 20213360,Beveren,9120,449000,House,4,231,Kruibekesteenweg,133,51.2019963,4.2647191,0,0,1,40,220,Installed,2,Good,0,C,1943.7229437229437
 20214651,Saint-Hubert,6870,570000,Villa,6,263,La Prunelaie,14,50.0214365,5.369759699999999,1,0,1,20,0,Installed,4,As new,0,B,2167.300380228137
@@ -1029,9 +1003,7 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20229691,Oostrozebeke,8780,429000,House,0,163,Gaverstraat,79,50.9173154,3.3391759,0,0,0,0,0,Installed,0,Just renovated,0,C,2631.9018404907974
 20232385,Grimbergen,1850,595000,Villa,6,297,Populierendallaan,82,50.9199989,4.3897362,0,0,1,0,0,Installed,4,Good,0,null,2003.3670033670035
 20229883,Maldegem,9990,599500,House,4,200,De Paap,6,51.2008273,3.4595939,0,0,1,0,0,Installed,0,As new,0,A,2997.5
-20229982,Mechelen,2800,619000,House,4,149,Abeelstraat,97,51.00200719999999,4.4748763,0,0,1,20,137,Installed,3,null,0,A,4154.362416107382
 20230044,Melle,9090,686000,House,3,224,Heusdenbaan,28,51.025485,3.7749516,0,0,1,0,0,Installed,0,Just renovated,0,B,3062.5
-20232093,Zwalm,9630,850000,Villa,6,332,Heuvelgem,56,50.8412308,3.7248578,1,0,1,0,0,null,4,Good,0,A,2560.240963855422
 20163448,Libramont-Chevigny Freux,6800,145000,House,2,100,Rue De La Tour,11,49.9699861,5.4504457,0,0,1,15,100,Not installed,3,To renovate,0,E,1450.0
 20185159,Liège,4032,175000,House,2,90,Rue Des Bédennes,43,50.6149519,5.6152745,0,0,0,0,110,Semi equipped,2,To be done up,0,E,1944.4444444444443
 20184278,Ronse,9600,179000,House,5,213,Ninovestraat,70,50.7511489,3.6095557,0,0,1,20,200,Semi equipped,3,To be done up,0,F,840.37558685446
@@ -1043,7 +1015,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20242881,Roeselare,8800,294000,House,3,186,Albert Biesbrouckstraat,38,50.9679375,3.1136939,0,0,0,0,0,null,0,Good,0,A,1580.6451612903227
 20220834,Ochamps,6890,299000,House,3,212,Rue De Bertrix,42,49.917343,5.2774768,0,0,0,0,365,Installed,3,As new,0,A,1410.377358490566
 20226296,Rixensart,1330,350000,House,3,173,Quai Du Tram,9,50.7088315,4.510887299999999,0,0,1,40,0,Not installed,3,To be done up,0,E,2023.121387283237
-20225931,Schorisse,9688,835000,House,2,211,Omer Wattezstraat,11,50.7996602,3.6984581,0,0,0,0,0,Installed,4,Just renovated,0,D,3957.345971563981
 20233110,Tessenderlo,3980,596500,House,3,322,Baalmolenstraat,21,51.07645520000001,5.0846241,0,0,0,0,1,Hyper equipped,3,As new,0,null,1852.4844720496894
 20237594,Dinant,5500,180000,Town house,4,185,Rue Adolphe Sax,55,50.2622594,4.9104845,0,0,0,0,0,null,0,Good,0,C,972.972972972973
 20237241,Gedinne Rienne,5575,199000,House,3,107,Rue Edouard Pisvin,53,49.9957106,4.884909,0,0,1,0,1160,Installed,3,Good,0,G,1859.8130841121495
@@ -1096,7 +1067,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20234786,Sint-Lambrechts-Woluwe,1200,410000,House,3,175,Chaussée De Roodebeek,106,50.8491193,4.432233699999999,0,0,1,0,116,Semi equipped,2,To renovate,0,G,2342.8571428571427
 20236222,Braine-Le-Château,1440,425000,House,4,181,Rue Hilaire Parmentier,1a,50.6876119,4.3055029,0,0,0,0,0,null,3,null,0,D,2348.0662983425414
 20234969,Bruxelles,1000,479000,House,5,220,Rue Du Houblon,52,50.85136259999999,4.3402579,0,0,0,0,0,Semi equipped,2,To be done up,0,F,2177.2727272727275
-20234380,Overijse,3090,875000,House,6,356,P.I. Taymansstraat,102,50.7810449,4.535587500000001,0,0,1,60,0,Hyper equipped,4,Good,0,A,2457.8651685393256
 20213334,Willebroek,2830,334000,House,3,112,Emiel Vanderveldestraat,131,51.0616668,4.353788499999999,0,0,1,0,0,Hyper equipped,2,Good,0,B,2982.1428571428573
 20212676,Ronse,9600,339000,House,4,252,Wijnstraat,37,50.7483746,3.5983383,0,0,1,0,0,Installed,2,To be done up,0,D,1345.2380952380952
 11349378,Gistel,8470,285000,House,4,148,Molenstraat,19,51.1205495,2.9576295,0,0,0,0,240,null,2,As new,0,B,1925.6756756756756
@@ -1127,7 +1097,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20232447,Tienen,3300,209000,House,2,116,Ketelmakersstraat,52,50.81080619999999,4.9295719,0,0,1,0,35,null,2,To renovate,0,F,1801.7241379310344
 20230813,Aalst,9300,239000,House,2,120,Naarstigheidstraat,25,50.9397374,4.022840299999999,0,0,1,22,42,null,0,Good,0,C,1991.6666666666667
 20229838,Beveren-Leie,8791,249000,House,3,236,Grote Heerweg,92,50.8767451,3.3329417,0,0,1,0,0,null,0,To be done up,0,D,1055.084745762712
-20230673,Flémalle,4400,289000,House,2,70,Thier Des Trixhes,135,50.5991547,5.4574335,0,0,0,0,100,Installed,4,Just renovated,0,C,4128.571428571428
 20230973,Zingem Ouwegem,9750,309000,House,3,156,Ouwegemsesteenweg,34,50.9110226,3.6066071,0,0,1,0,0,null,4,To renovate,0,F,1980.7692307692307
 20229854,Oostkamp,8020,435000,House,3,140,Watersnipstraat,12,51.1112629,3.2263994,0,0,0,0,0,Installed,0,Good,0,A,3107.1428571428573
 20230046,Gent,9000,435000,House,2,140,Kolveniersgang,48,51.0623394,3.716261199999999,0,0,0,0,0,null,0,Good,0,D,3107.1428571428573
@@ -1153,7 +1122,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20239039,Gent,9000,342000,House,4,147,Biezenstuk,84,51.0608454,3.693938199999999,0,0,1,0,0,Installed,2,null,0,C,2326.530612244898
 20235967,Evergem,9940,485000,House,3,161,Maagdekensstraat,25,51.1213657,3.722965,0,0,1,0,0,null,0,null,0,C,3012.422360248447
 20237874,Lievegem,9920,510000,House,4,248,Sportstraat,32,51.1002448,3.607861199999999,0,0,0,0,0,null,4,As new,0,D,2056.451612903226
-20238013,Affligem,1790,895000,Villa,4,344,Blakmeers,66,50.9024037,4.1186125,0,0,1,0,0,Hyper equipped,4,As new,0,C,2601.7441860465115
 20216172,Bruxelles,1120,379000,House,3,160,Rue Des Prés Communs,23,50.8910266,4.382381,0,0,0,0,40,Installed,2,To be done up,0,G,2368.75
 20215087,Kluisbergen,9690,595000,Manor house,3,235,Nachtegaaldreef,8,50.7620666,3.4881633,1,1,1,0,0,Installed,4,Good,0,D,2531.9148936170213
 20250896,Zele,9240,229000,House,4,153,Driesstraat,190,51.0674949,4.024887100000001,0,0,0,0,1481,Installed,3,To renovate,0,F,1496.7320261437908
@@ -1171,14 +1139,12 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20242817,Borgerhout,2140,469000,House,5,175,Kwekerijstraat,98,51.2198953,4.4433901,0,0,0,0,0,null,0,Just renovated,0,null,2680.0
 20073727,Nazareth,9810,559000,House,3,197,Steenweg,63,50.9528007,3.6419251,0,0,0,0,821,null,0,Just renovated,0,C,2837.56345177665
 20244822,Uccle,1180,645000,House,5,225,Rue Du Roetaert - Roetaertstraat,61,50.7979776,4.3264426,0,0,1,15,370,Installed,3,Good,0,E,2866.6666666666665
-20243723,Hoogstraten,2321,850000,House,5,379,Oude Meerleseweg,4,51.4524315,4.754468,0,0,0,0,0,null,4,Good,0,B,2242.7440633245383
 20223617,Geraardsbergen,9500,169500,House,3,143,Vesten,51,50.7731979,3.8862015,0,0,1,15,0,null,2,To be done up,0,C,1185.3146853146852
 20223040,Gembloux,5030,285000,House,3,187,Rue Hambursin,64,50.56489,4.6911499,0,0,0,0,1080,Semi equipped,4,To renovate,0,G,1524.0641711229946
 20221016,Bilzen,3740,299000,House,3,223,Zutendaalweg,19,50.901217,5.5273647,0,0,0,0,0,Installed,0,Good,0,F,1340.8071748878924
 20222843,Sint-Andries,8200,325000,House,5,233,Gistelsesteenweg,159 161,51.2013512,3.20155,0,0,0,0,0,null,2,As new,0,C,1394.8497854077252
 20222720,Woluwe-Saint-Pierre,1150,430000,House,3,119,Rue René Devillers,43,50.8235004,4.4622031,0,0,1,0,0,null,2,To renovate,0,G,3613.4453781512607
 20222517,Hoogstraten,2320,695000,Villa,4,292,Burgemeester Brosensstraat,20,51.4041842,4.753781399999999,1,0,0,0,0,Installed,4,Good,0,C,2380.1369863013697
-20222149,Dilbeek,1700,875000,Villa,5,340,Ninoofsesteenweg,515,50.8428968,4.2497405,0,0,1,35,8250,Hyper equipped,4,Just renovated,0,B,2573.529411764706
 20194631,Lede,9340,469000,Villa,3,170,Benedenstraat,46,50.9554601,3.9267953,0,0,1,40,900,Hyper equipped,4,As new,0,B,2758.823529411765
 20235215,Berlaar,2590,549000,House,4,290,Molenlei,86,51.1185043,4.6393635,0,0,1,0,0,Hyper equipped,3,null,0,B,1893.103448275862
 20214186,Rhode-Saint-Genèse,1640,399000,House,3,150,Chaussée De Braine L'Alleud,76,50.7365788,4.3384083,0,0,1,10,271,Installed,3,Good,0,D,2660.0
@@ -1231,7 +1197,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20161537,Uccle,1180,795000,House,4,205,Rue Geleytsbeek,75,50.7917362,4.3447664,0,0,1,25,40,Hyper equipped,2,As new,0,C,3878.048780487805
 20200963,Aalst,9300,298500,House,4,193,Posthoornstraat,65,50.935422,4.0254249,0,0,1,36,0,Installed,2,Good,0,F,1546.6321243523316
 20228431,Tervuren,3080,725000,House,4,235,Kolvenrodestraat,42,50.8388024,4.559307700000001,0,0,1,40,150,Usa installed,4,As new,0,B,3085.1063829787236
-20200956,Meerbeek,3078,890000,Villa,5,240,Engelbert Moensstraat,15,50.8805741,4.5912183,0,0,1,50,624,null,4,Just renovated,0,A,3708.3333333333335
 20243893,Lier,2500,365000,House,3,206,Mechelsesteenweg,199,51.1254602,4.5540439,0,0,1,0,0,Hyper equipped,0,null,0,D,1771.8446601941748
 20225254,Oostende,8400,278000,House,3,138,Leeuwerikenstraat,84,51.2118044,2.908378,0,0,1,55,0,null,0,Good,0,C,2014.4927536231885
 20225416,Wichelen,9260,299000,House,2,136,Hekkergemstraat,50,51.0112599,3.9298753,0,0,1,30,96,Installed,2,null,0,C,2198.529411764706
@@ -1269,7 +1234,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20228916,Galmaarden,1570,185000,House,3,150,Plaatsstraat,53,50.7427887,4.0021062,0,0,0,0,0,null,2,To renovate,0,F,1233.3333333333333
 20228837,Wanze,4520,299500,House,3,160,Rue Oscar Lelarge,4,50.5301892,5.2172022,0,0,1,50,234,null,4,null,0,E,1871.875
 20227252,Huy,4500,385000,House,4,155,Clos Du Vélodrome,1,50.5304604,5.2492662,0,0,1,48,512,null,3,null,0,B,2483.8709677419356
-20228458,Wetteren,9230,849000,Villa,4,327,Victor Van Sandelaan,16,51.0019472,3.8858833,0,0,1,0,0,null,4,Good,0,D,2596.330275229358
 20240438,Lierde,9570,431925,House,3,207,Gentse Steenweg,29,50.8072133,3.8732163,0,0,1,23,0,Installed,3,As new,0,null,2086.5942028985505
 20202287,Ath,7800,499000,Mansion,5,321,Rue D'Houtaing,27,50.64139729999999,3.6785145,0,1,1,40,515,Installed,4,Good,0,F,1554.5171339563863
 20202286,Houtaing,7812,499000,Mansion,5,321,Rue D'Houtaing,27,50.6411667,3.6779783,0,1,1,40,515,Installed,4,Good,0,F,1554.5171339563863
@@ -1299,7 +1263,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20211042,Kapellen,2950,445000,House,3,150,Koning Albertlei,48,51.31566919999999,4.4351174,0,0,0,0,120,Installed,0,Good,0,C,2966.6666666666665
 20211961,Gent Afsnee,9051,475000,House,3,164,Wittepaalstraat,11,51.0273262,3.6559866,0,0,1,0,130,Hyper equipped,3,Good,0,D,2896.3414634146343
 20172872,Laeken,1020,625000,Villa,4,200,Avenue Du Forum,62,50.9004539,4.3572921,0,0,1,120,1000,Installed,4,To renovate,0,G,3125.0
-20211945,Braine-L'Alleud,1420,890000,Villa,3,300,Avenue Des Muguets,27,50.73155080000001,4.3341099,0,0,1,53,1500,Semi equipped,4,Good,0,F,2966.6666666666665
 20244013,Gent,9000,599000,House,4,177,Lentestraat,38,51.0351776,3.7305333,0,0,1,13,0,Hyper equipped,2,As new,0,A,3384.1807909604518
 20214972,Visé,4600,245000,House,3,185,Rue De Dalhem,6,50.7313659,5.696395000000001,0,0,1,3,0,Installed,4,To be done up,0,G,1324.3243243243244
 20246771,Fleurus,6220,295000,House,3,140,Rue Des Dames,45,50.4655241,4.588275299999999,0,0,0,0,0,Installed,3,As new,0,D,2107.1428571428573
@@ -1358,8 +1321,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20167512,Affligem,1790,495000,House,4,195,Tulpenlaan,33,50.89011600000001,4.0925173,0,0,1,65,400,Hyper equipped,4,As new,0,C,2538.4615384615386
 20209561,Lede,9340,499000,Villa,5,260,Kapelleweg,96,50.96794690000001,3.9228876,0,0,1,35,1300,Hyper equipped,4,Good,0,B,1919.2307692307693
 20151097,Rixensart,1330,515000,House,5,200,Rue Du Monastere,9,50.7118434,4.5298927,0,0,1,0,0,Semi equipped,4,To renovate,0,D,2575.0
-20203693,Waasmunster,9250,825000,Country cottage,4,230,Oudeheerweg-Ruiter,7,51.1202621,4.0644735,0,1,1,0,1695,Hyper equipped,4,As new,0,C,3586.9565217391305
-20135096,Uccle,1180,850000,Villa,4,220,Avenue Kersbeek,303,50.7999916,4.323076299999999,0,0,1,43,550,Hyper equipped,4,As new,0,G,3863.6363636363635
 20199383,Antwerpen,2020,245000,House,4,135,De Bosschaertstraat,154,51.1872161,4.3820118,0,0,0,0,50,null,2,To renovate,0,D,1814.8148148148148
 20243341,Orroir,7750,325000,House,3,157,Rue Des Résistants,1,50.7485982,3.4794734,0,0,1,0,0,Installed,3,Good,0,null,2070.063694267516
 20145023,Lubbeek,3210,355000,House,3,120,Sint-Maartensdal,22,50.884927,4.8530326,0,0,1,0,0,Installed,2,Just renovated,0,C,2958.3333333333335
@@ -1367,7 +1328,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20223869,Torhout,8820,275000,House,4,265,Bruggestraat,20,51.0700533,3.1050889,0,0,0,0,0,Not installed,3,To renovate,0,F,1037.7358490566037
 20225070,Kessel-Lo,3010,365000,House,4,120,Werkhuizenstraat,38,50.8824797,4.720234899999999,0,0,0,0,0,null,0,To renovate,0,F,3041.6666666666665
 20226619,Leuven,3001,575000,House,3,201,Keibergstraat,29,50.86996569999999,4.6709021,0,0,1,0,0,Installed,4,Good,0,C,2860.6965174129355
-20223613,Brugge,8000,895000,House,4,268,Koningin Elisabethlaan,44,51.2162363,3.2179625,0,0,0,0,0,null,4,Good,0,C,3339.5522388059703
 20189234,Zottegem,9620,250000,House,4,165,Klemhoutstraat,72,50.8366291,3.8216813,0,0,1,28,0,Installed,3,To be done up,0,E,1515.1515151515152
 20187402,Tellin,6927,310000,House,3,177,Fouy D'En Bas,10,50.0822677,5.223912100000001,0,0,0,0,500,null,4,Just renovated,0,D,1751.412429378531
 20170513,Antwerpen,2140,379900,House,3,130,Jozef Posenaerstraat,73,51.2119387,4.452675699999999,0,0,1,1,50,Installed,2,Good,0,D,2922.3076923076924
@@ -1440,7 +1400,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20213079,Egem,8740,415000,House,6,375,Brugsesteenweg,184,51.0086883,3.2348408,0,0,1,14,250,null,4,As new,0,D,1106.6666666666667
 20211041,Hoevenen,2940,549000,House,3,176,Olmenlaan,39,51.3143586,4.4030477,0,0,0,0,702,Installed,0,Good,0,D,3119.318181818182
 20212858,Beersel,1650,580000,House,5,295,Kerkstraat,92,50.7287703,4.3007497,0,0,1,0,0,Semi equipped,3,To be done up,0,D,1966.1016949152543
-20211716,Schilde,2970,899000,Villa,4,271,Picardiëlaan,10,51.2439409,4.5836308,0,1,1,30,0,Hyper equipped,4,Good,0,D,3317.343173431734
 20196075,Stekene,9190,710000,House,3,230,Koestraat,5,51.2316795,4.071978,0,0,1,60,1380,Installed,0,Good,0,B,3086.9565217391305
 20250630,Heusden,3550,749000,Villa,5,320,M. Scheperslaan,86,51.02499359999999,5.3374714,1,0,1,90,330,Hyper equipped,4,As new,0,B,2340.625
 20247092,Eeklo,9900,149000,House,3,140,Hospitaalstraat,26,51.1808868,3.5762286,0,0,0,0,0,null,2,null,0,F,1064.2857142857142
@@ -1506,7 +1465,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20178805,Kontich,2550,685000,Villa,4,230,Jeroen En Peter Conventlaan,8,51.117405,4.447626,0,0,1,0,542,Hyper equipped,4,As new,1,C,2978.2608695652175
 20209483,Beveren,9120,699000,Villa,3,320,Tuinlaan,5,51.2245554,4.1935486,0,0,0,0,0,null,4,As new,0,B,2184.375
 20195489,Wezembeek-Oppem,1970,790000,Villa,4,233,Clos Des Trotteurs,3,50.854129,4.4996022,0,0,1,0,300,Installed,4,To renovate,0,D,3390.557939914163
-20135789,Woluwe-Saint-Lambert,1200,850000,House,4,235,Rue De La Cambre,332,50.83847480000001,4.4117137,0,0,1,15,240,Hyper equipped,3,To be done up,0,G,3617.021276595745
 20201113,Wetteren,9230,169000,House,2,56,Fortstraat,24,51.001435,3.887381,0,0,1,22,108,Semi equipped,2,Good,0,F,3017.8571428571427
 20201259,Desselgem,8792,175000,House,3,180,Leopold Iii-Laan,13,50.8882562,3.35911,0,0,1,0,0,Semi equipped,3,To renovate,0,F,972.2222222222222
 20199418,Heusden,9070,465000,House,2,170,Spangerede,15,51.0260265,3.8043223,0,0,1,0,0,Installed,4,To renovate,0,E,2735.294117647059
@@ -1638,9 +1596,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20199457,Lier,2500,719000,Villa,3,232,Krokuslaan,12,51.1369525,4.5514692,0,0,0,0,0,Hyper equipped,4,Good,0,B,3099.137931034483
 20209327,Kraainem,1950,745000,House,4,195,Avenue Baron Albert D'Huart,261,50.8280371,4.4730997,0,0,1,15,150,Installed,2,As new,0,C,3820.5128205128203
 20188955,Kapellen,2950,795000,Villa,3,205,Marcottedreef,17,51.3463922,4.4415442,1,0,1,80,0,Hyper equipped,4,To renovate,0,F,3878.048780487805
-20203856,Zoersel,2980,835000,Villa,5,347,Schriekbos,12,51.2676048,4.686439,0,0,0,0,1933,null,4,Good,0,B,2406.3400576368877
-20193582,Ravels Poppel,2382,845000,Villa,3,240,Steenweg Weelde,101,51.436648,5.028541400000001,1,0,1,30,795,Hyper equipped,4,As new,0,A,3520.8333333333335
-20177503,Kapellen,2950,895000,Villa,4,240,Franselei,34,51.3393921,4.4818123,1,1,1,40,0,Hyper equipped,4,Good,0,D,3729.1666666666665
 20198853,Mechelen,2800,269000,House,3,159,Oude Liersebaan,56,51.0372969,4.4770215,0,0,0,0,0,Installed,2,To renovate,0,C,1691.8238993710693
 20198538,Zottegem,9620,325000,House,3,154,Tweekerkenstraat,10,50.8562317,3.8162439,0,0,1,0,0,Installed,0,Good,0,D,2110.3896103896104
 20229831,Ichtegem,8480,329000,House,3,170,Engelstraat,225a,51.0999391,3.029942,0,0,1,25,125,Installed,2,As new,0,A,1935.2941176470588
@@ -1692,7 +1647,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20216209,Nazareth,9810,535000,House,3,356,Zuiderbiesten,22,50.9557022,3.629817,0,0,1,0,0,Hyper equipped,4,Good,0,C,1502.808988764045
 20215084,Vichte,8570,595000,Mansion,3,275,Bosstraat,11,50.8381576,3.4089277,0,0,0,0,0,Installed,0,To be done up,0,C,2163.6363636363635
 20112057,Ronse,9600,239000,House,4,160,Wolvestraat,64,50.7524138,3.6053842,0,0,1,25,100,Hyper equipped,2,Good,0,D,1493.75
-20194760,Herenthout,2270,895000,Mansion,3,260,Molenstraat,58,51.1399196,4.7615187,0,0,1,0,0,Hyper equipped,3,Just renovated,0,B,3442.3076923076924
 20180578,Willebroek,2830,435000,House,3,196,Graanstraat,2,51.0549091,4.3653278,0,0,1,0,0,Hyper equipped,3,Good,0,B,2219.387755102041
 20247880,Oostkamp,8020,469000,House,3,160,Walbrugstraat,52,51.1392958,3.2559479,0,0,0,0,0,Installed,0,Good,0,null,2931.25
 20250138,Bever,1547,699000,Villa,5,289,Torrezeel,26,50.7037409,3.9444109,0,0,1,105,8805,null,4,Good,0,C,2418.6851211072662
@@ -1728,7 +1682,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20235149,Heusden,9070,395000,House,3,175,Kalverbosstraat,83,51.0133939,3.801314899999999,0,0,0,0,0,null,0,Good,0,F,2257.1428571428573
 20232619,Brugge,8000,485000,House,4,154,Peterseliestraat,52,51.2168413,3.2358018,0,0,0,0,0,Hyper equipped,0,Good,0,null,3149.3506493506493
 20233065,Zoersel Halle,2980,525000,Villa,4,257,Hoge Dreef,32,51.2612357,4.643641,0,1,1,0,0,Hyper equipped,4,null,0,D,2042.8015564202335
-20232228,Antwerpen,2600,798000,Mansion,5,194,Eikelstraat,70,51.2002872,4.4240619,0,0,1,11,15,null,4,Good,0,A,4113.40206185567
 20183357,Vielsalm,6690,219000,House,5,239,Rue De La Grotte,20,50.2924209,5.9094659,0,0,1,100,2002,Not installed,4,Good,0,F,916.3179916317991
 20207367,Oostkamp,8020,285000,House,2,157,Brugsestraat,103,51.15979549999999,3.2351204,0,0,1,20,0,null,2,Good,0,B,1815.2866242038217
 20213850,Liège Grivegnée,4030,289000,House,4,158,Avenue De Péville,42,50.6275786,5.593449199999999,0,0,1,14,207,Semi equipped,3,To be done up,0,D,1829.113924050633
@@ -1756,7 +1709,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20240964,Flémalle,4400,490000,House,3,155,Rue De Villencourt,1,50.5921364,5.479714200000001,0,0,1,22,1,Usa hyper equipped,4,As new,0,A,3161.2903225806454
 20242223,Edegem,2650,499000,House,4,190,Drie Eikenstraat,491,51.156063,4.4218337,0,0,0,0,500,Semi equipped,3,null,0,F,2626.315789473684
 20240226,Kachtem,8870,759000,House,3,202,Zonnestraat,28,50.9441454,3.1916627,0,0,1,0,0,null,0,null,0,B,3757.4257425742576
-20239701,Woluwe-Saint-Pierre,1150,799000,House,4,194,Clos Du Mouron,11,50.8288386,4.4160427,0,0,1,0,0,Hyper equipped,2,As new,0,D,4118.556701030928
 20215115,Beauraing,5570,159000,House,3,99,Rue Jean Claude Devouge 23 08320 Aubrives,23,50.1038286,4.7593587,1,0,0,0,300,null,4,To restore,0,E,1606.060606060606
 20219598,Dison,4820,180000,House,5,245,Rue Des Franchimontois,79,50.5980105,5.8566749,0,0,1,20,0,Not installed,2,To be done up,0,D,734.6938775510204
 20216855,Dendermonde,9200,197000,House,2,142,Broekkantstraat,170,51.0414107,4.1571142,0,0,1,0,0,null,3,To be done up,0,F,1387.3239436619717
@@ -1774,7 +1726,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20229665,Zingem,9750,275000,House,3,174,Heirweg,26,50.9002006,3.6522257,0,0,1,0,0,Hyper equipped,0,null,0,E,1580.4597701149426
 20231170,Hove,2540,385000,House,3,182,Kapelstraat,13,51.1539316,4.470227500000001,0,0,1,0,0,Hyper equipped,2,Good,0,C,2115.3846153846152
 20231599,Dendermonde,9200,670000,House,4,255,Korte Haagstraat,5,51.0148911,4.124567799999999,0,0,1,0,0,Hyper equipped,4,As new,0,A,2627.450980392157
-20230559,Rekkem,8930,880000,Villa,0,262,Vaandelpad,10,50.761506,3.1742052,0,0,0,0,0,null,4,Good,0,A,3358.7786259541986
 20210124,Lede,9340,139000,House,2,122,Vijverstraat,50,50.96925359999999,3.9788231,0,0,1,45,0,Installed,3,To be done up,0,F,1139.344262295082
 20188168,Geraardsbergen,9500,145000,House,2,80,Pateelstraat,49,50.769267,3.8743039,0,0,0,0,0,Installed,2,Good,0,C,1812.5
 20207365,Ronse,9600,170000,House,2,114,Opgeëistenstraat,61,50.7520447,3.5923074,0,0,1,0,0,null,2,Good,0,D,1491.2280701754387
@@ -1800,7 +1751,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20209136,Woluwe-Saint-Lambert,1200,650000,House,3,225,Avenue Orion,5,50.8508399,4.415877099999999,0,0,1,0,230,Semi equipped,3,Good,0,G,2888.8888888888887
 20167064,Uccle,1180,675000,House,4,235,Alphonse Asselbergsstraat,13,50.8054442,4.3359196,0,0,1,30,70,Not installed,2,To be done up,0,G,2872.340425531915
 20129174,Boortmeerbeek,3190,789000,House,3,325,Kallebeekstraat,39,50.9816199,4.5581708,1,0,1,0,0,Hyper equipped,4,Good,0,C,2427.6923076923076
-20194442,Londerzeel Malderen,1840,825000,Mansion,5,262,L. Van Hoeymissenstraat,40,51.0163297,4.2405097,1,0,1,0,0,Hyper equipped,4,As new,0,D,3148.8549618320612
 20229840,Gent,9050,335000,House,2,98,Bassijnstraat,49,51.0452877,3.7478839,0,0,1,10,19,Installed,2,Good,0,B,3418.3673469387754
 20189159,Galmaarden,1570,175000,House,3,215,Plaatsstraat,2,50.7416777,4.0052618,0,0,0,0,0,Semi equipped,3,To renovate,0,F,813.953488372093
 20221940,Mechelen,2800,270000,House,5,166,Grote Nieuwedijkstraat,299,51.0387668,4.4943621,0,0,1,30,0,Installed,2,null,0,C,1626.5060240963855
@@ -1882,7 +1832,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20211057,Sint-Amandsberg,9040,398000,House,4,190,Vriendschapstraat,4,51.0712846,3.7742976,0,0,0,0,0,Installed,0,To renovate,0,E,2094.7368421052633
 20212031,Baaigem,9890,625000,House,3,249,Hundelgemsesteenweg,31,50.9313735,3.7328318,0,0,1,0,0,null,4,As new,0,C,2510.0401606425703
 20212255,Musson,6750,639000,House,4,277,Rue De France,32A,49.5546707,5.6910588,0,0,1,60,1805,Hyper equipped,4,As new,0,A+,2306.8592057761734
-20212510,Gent,9000,837000,House,4,345,Gebroeders Van Eyckstraat,25,51.0533431,3.7333059,0,0,0,0,45,null,4,Good,0,D,2426.086956521739
 20217986,Schelle,2627,379000,House,2,135,Steenwinkelstraat,298,51.1251817,4.3543584,1,0,1,50,150,Installed,2,As new,0,C,2807.4074074074074
 20187358,Rendeux Beffe,6987,295000,House,6,176,Le Concy,75,50.23547199999999,5.538521299999999,0,0,1,12,579,Installed,4,Good,0,E,1676.1363636363637
 20195238,Waregem,8790,295000,House,4,214,Kortrijkseweg,160,50.8716972,3.3424354,0,0,0,0,554,Installed,0,To be done up,0,E,1378.5046728971963
@@ -2044,7 +1993,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20235925,Merelbeke,9820,520000,House,4,166,Hundelgemsesteenweg,1060,50.9699639,3.7347587,0,0,1,0,0,null,0,null,0,null,3132.5301204819275
 20236019,Putte,2580,548000,House,3,160,Saffraanbergen,16,51.0215116,4.6473635,0,0,0,0,0,Hyper equipped,0,null,0,A,3425.0
 20156467,Knokke-Heist,8300,625000,House,4,212,Sluisstraat,92,51.3155035,3.3520092,0,0,1,0,1255,null,4,Good,0,D,2948.1132075471696
-20207182,Brecht,2960,850000,Villa,5,327,Cambeenbos Laan E,1,51.3102513,4.5766607,0,1,0,0,560,null,0,Good,0,B,2599.3883792048928
 20212467,Middelkerke,8430,259000,House,3,74,Oostendelaan,205,51.1916578,2.8352242,0,0,0,0,120,Installed,0,Good,1,F,3500.0
 20214969,"Rendeux, Beffe",6987,289000,House,3,109,Lion-De-L'Ourthe,13,50.2425672,5.510003500000001,0,0,1,30,465,Installed,4,null,0,E,2651.376146788991
 20214921,Roeselare,8800,299000,House,4,140,Kleine Bruanestraat,54,50.9418284,3.1468649,0,0,0,0,0,null,4,As new,0,C,2135.714285714286
@@ -2061,14 +2009,11 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20250406,Celles Pottes,7760,459000,Farmhouse,4,265,Rue De La Gare,44,50.7215134,3.4030716,0,0,1,0,0,Installed,4,As new,0,F,1732.0754716981132
 20247879,Oostkamp,8020,469000,House,3,160,Walbrugstraat,50,51.1393721,3.2557757,0,0,0,0,0,Installed,0,Good,0,null,2931.25
 20171613,Rhode-Saint-Genèse,1640,495000,House,3,244,Terheydestraat,11,50.7399315,4.3542597,1,0,0,0,100,Hyper equipped,3,Good,0,D,2028.688524590164
-20183286,Kasterlee,2460,895000,House,5,335,Vinkendreef,5,51.2057295,4.8994747,1,0,1,0,0,Installed,4,As new,0,B,2671.6417910447763
-20248468,Gent,9000,895000,Mansion,4,293,Kasteellaan,501,51.0560754,3.7384441,0,0,0,0,0,null,0,Good,0,D,3054.6075085324233
 20229570,Ronse,9600,279000,House,5,180,Georges Dumontstraat,16,50.7344731,3.6024887,0,0,1,0,0,Installed,3,Good,0,null,1550.0
 20227480,Wevelgem,8560,389000,House,4,208,Hellestraat,30,50.8157303,3.215139,0,0,1,0,460,null,2,null,0,B,1870.1923076923076
 20228161,Boom,2850,398000,House,4,231,Tuyaertsstraat,28,51.0876129,4.3673823,0,0,1,0,130,null,2,null,0,C,1722.9437229437228
 20222701,Deinze,9850,499000,House,4,180,Vosselarestraat,24b,51.0549245,3.5713897,1,0,1,20,700,Hyper equipped,3,Good,0,B,2772.222222222222
 20228330,Schelle,2627,795000,House,4,266,Sparrenlaan,17,51.1170783,4.32864,0,0,1,0,0,Hyper equipped,4,null,0,C,2988.721804511278
-20228673,Ixelles,1050,895000,House,4,250,Clos Du Cheval D'Argent,19,50.81067119999999,4.3917438,0,0,1,8,87,null,2,null,0,C,3580.0
 20203552,Hoegaarden,3320,235000,House,4,160,Stoopkensstraat,58,50.7781963,4.8883047,0,0,0,0,587,null,2,To renovate,0,B,1468.75
 20201950,Gent,9000,270000,House,1,117,Heilig-Hartstraat,5,51.0536997,3.7486309,0,0,0,0,0,Installed,2,Good,0,B,2307.6923076923076
 20190847,Paliseul,6850,445000,House,2,230,Rue Commandant Henri Calvez,22,49.96655370000001,5.1737408,0,0,1,60,790,Hyper equipped,4,As new,0,A,1934.7826086956522
@@ -2089,7 +2034,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20148924,Ans,4430,245000,House,3,115,Rue De L'Yser,193,50.6593322,5.5226954,1,0,1,40,187,Installed,2,Good,1,D,2130.4347826086955
 20148923,Durbuy,6940,369000,House,4,231,Rue Du Calvaire,49,50.3350543,5.4345624,0,0,1,58,855,Installed,4,Good,0,E,1597.4025974025974
 20148921,Erezée,6997,369000,House,4,231,Rue Du Calvaire,49,50.2813835,5.516160699999999,0,0,1,58,855,Installed,4,Good,0,E,1597.4025974025974
-20227040,Hoegaarden,3320,895000,Villa,3,300,Sint-Jansstraat,28b,50.8021792,4.8700714,0,1,1,35,600,Hyper equipped,4,As new,0,A,2983.3333333333335
 20234938,Saint-Nicolas,4420,120000,House,3,146,Rue De L'Indépendance,7,50.6291565,5.5437424,0,0,1,0,0,null,2,To renovate,0,E,821.917808219178
 20233970,Hognoul,4342,349000,House,4,235,Rue De Villers,31,50.6834492,5.4496445,0,0,1,58,586,Installed,2,Good,0,C,1485.1063829787233
 20207976,Gentbrugge,9050,369000,House,4,160,Jules De Saint-Genoisstraat,11,51.0312332,3.7605582,0,0,1,0,140,null,0,Good,0,C,2306.25
@@ -2124,13 +2068,10 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20196878,Aartselaar,2630,399000,Town house,3,175,Zonnebloemlaan,6,51.1412416,4.3726229,0,0,1,35,140,Installed,2,To be done up,0,C,2280.0
 20112444,Evere,1140,495000,House,4,190,Willebrord Van Perckstraat,46,50.8742416,4.3951039,0,0,1,15,25,Hyper equipped,2,As new,0,D,2605.2631578947367
 20225324,Geraardsbergen Moerbeke,9500,379000,Villa,3,177,Brouwketelstraat,15,50.7532856,3.926605699999999,0,0,1,0,0,Hyper equipped,3,As new,0,null,2141.2429378531074
-20251430,Uccle,1180,875000,Villa,4,270,Chaussée De Waterloo,1050,50.7991312,4.3758909,0,0,1,0,100,Hyper equipped,3,As new,0,E,3240.740740740741
-20248810,Brugge,8000,895000,Mansion,5,396,Zwarteleertouwersstraat,10,51.20800759999999,3.2310091,1,0,1,35,0,Installed,4,null,0,C,2260.10101010101
 11491775,Antwerpen,2060,210000,House,3,102,Meetingstraat,8,51.2219253,4.432945,0,0,0,0,0,Installed,0,To renovate,0,F,2058.823529411765
 20187804,Boom,2850,220000,House,2,112,Veldstraat,30,51.0908731,4.368943499999999,0,0,1,20,0,Installed,2,Good,0,B,1964.2857142857142
 20204219,Izegem,8870,245000,House,3,222,Vijfwegenstraat,68-70,50.9275136,3.2148747,0,0,1,0,0,Installed,0,Good,0,D,1103.6036036036037
 20203526,Hemiksem,2620,399000,House,3,162,Van Dycklaan,3,51.1408394,4.3445643,0,0,1,18,0,null,0,Good,0,C,2462.962962962963
-20149836,Duffel,2570,895000,Villa,4,370,Groenstraat,25,51.0887566,4.4864238,0,0,1,0,2000,null,4,Good,0,D,2418.9189189189187
 20242928,Amay,4540,215000,House,2,134,Rue Du Puits,1,50.5424602,5.2890586,0,0,1,50,250,Installed,4,Good,0,D,1604.4776119402984
 20241862,Eeklo,9900,305000,House,4,159,Oostveldstraat,41,51.1816275,3.5790529,0,0,1,0,0,Installed,2,null,0,A,1918.2389937106918
 20241047,Humbeek,1851,349000,House,4,230,Voordestraat,151,50.9829533,4.365522299999999,0,0,1,0,0,null,4,To renovate,0,null,1517.391304347826
@@ -2434,8 +2375,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20192965,Woluwe-Saint-Pierre,1150,695000,House,4,221,Clos Du Mouron,9,50.8288975,4.4161008,0,0,1,10,50,Hyper equipped,3,As new,0,G,3144.7963800904977
 20196074,Roeselare,8800,750000,Villa,4,276,Hellestraat,40,50.9588398,3.0844537,0,0,1,0,0,null,4,Good,0,C,2717.391304347826
 20194458,Zoersel,2980,775000,Villa,4,350,Kanunnik Ullenslaan,22,51.245315,4.632323899999999,0,0,1,0,0,null,4,To be done up,0,C,2214.285714285714
-20150834,Merchtem Brussegem Vijlst,1785,875000,Farmhouse,5,236,Vijlststraat,3,50.9384954,4.2872257,1,0,1,0,0,Semi equipped,4,To renovate,0,C,3707.6271186440677
-20127832,Kraainem,1950,895000,House,6,280,Rue De La Limite,207,50.85149370000001,4.4623688,0,0,1,50,700,Not installed,3,Good,0,D,3196.4285714285716
 20200592,Sint-Niklaas,9100,279000,House,3,128,Pastoor De Meerleerstraat,84,51.1594573,4.135792299999999,0,0,0,0,52,null,4,As new,0,B,2179.6875
 20229524,Affligem,1790,329000,House,2,198,Daalstraat,141,50.8943983,4.091086199999999,1,0,1,12,60,Installed,2,null,0,D,1661.6161616161617
 20058958,Oostende,8400,399000,Town house,3,210,Westlaan,18,51.20430349999999,2.8619724,0,0,1,0,131,null,2,As new,0,B,1900.0
@@ -2451,7 +2390,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20189627,Wichelen,9260,469000,House,3,182,Moleken,52,51.00820239999999,3.964877,0,0,0,0,0,null,4,To be done up,0,C,2576.923076923077
 20157762,Sint-Gillis-Waas,9170,519000,House,4,196,Burgemeester K.L. Verbraekenstraat,20,51.2165872,4.1217901,0,0,1,64,0,Installed,3,Good,0,B,2647.9591836734694
 20224762,Kampenhout,1910,614000,House,4,257,Zeypestraat,81,50.9566613,4.555690999999999,0,0,1,0,2775,Hyper equipped,4,null,0,C,2389.105058365759
-20174698,Sint-Idesbald,8670,898000,House,5,313,Koninklijke Prinslaan,10,51.11002879999999,2.6280722,0,0,0,0,1000,null,4,As new,0,C,2869.0095846645368
 20103598,Wellin,6920,99000,House,3,130,Rue De La Station,7,50.0816572,5.1147351,0,0,1,6,0,Not installed,2,To renovate,0,E,761.5384615384615
 20098609,Marche-En-Famenne,6900,135000,House,3,118,Chaussée De Marenne,119,50.2294175,5.35302,0,0,1,30,163,Not installed,3,To renovate,0,G,1144.0677966101696
 20075307,Aywaille,4920,144900,Bungalow,1,55,Rue De Spa,167,50.4814646,5.7411319,0,0,1,20,830,Installed,4,To be done up,0,G,2634.5454545454545
@@ -2522,11 +2460,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 11483191,Sint-Kwintens-Lennik,1750,690000,House,3,240,Gustaaf Van Der Steenstraat,81,50.8014631,4.169592199999999,0,0,1,0,0,Usa hyper equipped,4,Good,0,C,2875.0
 11443924,Roosdaal,1760,699000,Villa,3,200,Langebroekstraat,6,50.8213316,4.1049358,0,0,1,1,1,Hyper equipped,4,As new,0,A+,3495.0
 20130826,Ixelles,1050,710000,House,3,194,Rue Isidore Verheyden,3,50.8328482,4.3611475,0,0,0,0,0,Usa uninstalled,2,As new,0,F,3659.7938144329896
-20142675,Humbeek,1851,845000,Villa,3,330,Baron Rene Lundenlaan,16,50.974948,4.384981,0,0,0,0,0,Installed,4,Good,0,D,2560.6060606060605
-11459367,Kontich,2550,849000,Villa,5,328,Groeningenlei,122,51.1428614,4.4147623,0,0,1,0,2260,Hyper equipped,4,To be done up,0,E,2588.4146341463415
-11420673,Keerbergen,3140,849000,Villa,4,275,Grensstraat,122,51.0200083,4.670309,0,1,1,120,1200,Usa installed,4,Just renovated,0,B,3087.2727272727275
-20106373,Sint-Kruis,8310,850000,Villa,4,279,Bisschopsdreef,19,51.21511570000001,3.2545751,0,0,1,371,371,Installed,0,Good,0,B,3046.5949820788533
-11419066,Tervuren,3080,895000,House,5,230,Karel Van Lorreinenlaan,2,50.8272419,4.495489,0,0,1,12,200,Installed,4,To be done up,0,C,3891.304347826087
 20191064,Koekelare,8680,179000,House,4,301,Dorpsstraat,34,51.0896433,2.9754098,0,0,1,21,95,null,3,Good,0,null,594.6843853820598
 20237879,Gent,9050,270000,House,2,102,Sint-Daniëlstraat,59,51.0331467,3.7456711,0,0,0,0,14,null,4,null,0,E,2647.0588235294117
 20238396,Eernegem,8480,289000,House,4,261,Belleboslaan,11,51.13333780000001,3.0313514,0,0,0,0,0,null,4,To be done up,0,D,1107.27969348659
@@ -2560,7 +2493,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20161519,Sinaai-Waas,9112,419000,House,2,176,Hulstbaan,198,51.1445,4.0330107,0,0,1,20,400,null,4,As new,0,D,2380.681818181818
 20183785,Gent,9040,459000,House,4,173,Destelbergenstraat,48,51.0503636,3.7548842,0,0,1,0,70,Hyper equipped,3,As new,0,C,2653.1791907514453
 20131209,Schilde,2970,649000,House,4,252,Kampdreef,2,51.27614699999999,4.6132542,0,0,1,0,2293,null,4,To be done up,0,F,2575.3968253968255
-20247734,Ramskapelle,8301,895000,House,4,216,Ramskapellestraat,47,51.3156414,3.2490658,0,0,1,27,0,null,0,Good,0,null,4143.518518518518
 20227758,Eeklo,9900,149000,House,3,131,Zandstraat,200,51.1779675,3.5609884,0,0,0,0,0,null,3,null,0,D,1137.4045801526718
 20227558,Ivoz-Ramet,4400,259000,House,3,150,Rue Max Buset,14,50.581711,5.4249776,0,0,0,0,700,Installed,4,Good,0,C,1726.6666666666667
 20213321,Antwerpen,2610,795000,House,5,336,Hoge-Aardstraat,34,51.17515909999999,4.427883500000001,1,0,1,25,110,Hyper equipped,2,Good,0,B,2366.0714285714284
@@ -2675,16 +2607,11 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20197428,Tongeren,3700,498000,House,3,206,Viséweg,367,50.7654583,5.531147799999999,0,0,0,0,0,null,4,As new,0,A,2417.4757281553398
 20186867,Kapellen,2950,498500,House,3,183,Grensstraat,84,51.3571588,4.4008531,0,0,1,20,480,Hyper equipped,4,Good,0,B,2724.0437158469945
 20203817,Berlare,9290,525000,House,4,231,Molenvenne,13,51.0167446,4.0043543,0,0,0,0,0,Hyper equipped,4,As new,0,C,2272.7272727272725
-20187465,Rixensart,1330,575000,House,4,140,Rue Des Bleuets,38,50.7013725,4.536667,0,0,1,81,0,Installed,4,Good,0,C,4107.142857142857
 20203675,Lier,2500,585000,House,4,197,Stijn Streuvelslaan,29,51.1390569,4.5425863,1,1,1,0,0,Hyper equipped,4,As new,0,C,2969.543147208122
 20209465,Ninove,9400,589000,Villa,4,204,Neerstraat,105,50.8088655,3.965998599999999,0,0,1,0,0,null,4,To restore,0,F,2887.2549019607845
 20137753,Boortmeerbeek,3190,615000,House,5,236,Marsweg,1,50.9760427,4.5785076,0,0,1,0,0,Hyper equipped,4,As new,0,C,2605.9322033898306
 20141627,Aalst Gijzegem,9308,659000,House,3,233,Steenweg Naar Oudegem,208,50.990689,4.0516117,0,0,1,0,0,Hyper equipped,4,As new,0,B,2828.3261802575107
 20161275,Antwerpen,2018,690000,Mansion,5,240,Montignystraat,46,51.2037748,4.391784,0,0,1,15,0,Hyper equipped,2,As new,0,C,2875.0
-20196546,Dilbeek,1700,895000,House,6,250,Pedestraat,64,50.8155447,4.2245636,0,0,1,0,0,Installed,4,Good,0,E,3580.0
-20210650,Diegem,1831,895000,Villa,7,310,Pieter Schroonsstraat,82,50.9042785,4.429236899999999,0,0,1,0,0,Installed,4,Good,0,D,2887.0967741935483
-20170695,Kontich,2550,899000,House,4,220,Antwerpsesteenweg,31,51.1364358,4.4477063,0,0,0,0,300,null,3,As new,0,C,4086.3636363636365
-20196307,Evergem,9940,899000,Villa,3,282,Doornzeelsestraat,17,51.12574619999999,3.7394299,0,0,1,0,0,null,4,As new,0,B,3187.9432624113474
 20179888,Bredene,8450,315000,House,3,212,Dorpsstraat,66,51.2345757,2.9742632,1,0,1,36,40,null,2,Good,0,C,1485.8490566037735
 20198960,Waregem,8790,319000,Mansion,6,250,Putmanstraat,59,50.8925351,3.431937,0,0,0,0,0,Installed,3,Good,0,E,1276.0
 11445199,Zele,9240,450000,House,4,366,De Deckerstraat,30,51.0701492,4.0400686,0,0,1,0,0,Hyper equipped,3,As new,0,C,1229.5081967213114
@@ -2817,7 +2744,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20223288,Ghoy,7863,469000,Villa,3,220,Laisette,23,50.7300662,3.8067081,1,0,1,0,0,Installed,4,null,0,D,2131.818181818182
 20225202,Maarkedal,9680,479000,House,6,224,Rijksweg,151,50.8199196,3.603656599999999,0,0,0,0,0,null,0,null,0,F,2138.3928571428573
 20190726,Moen,8552,449500,House,3,177,Olieberg,62,50.7740081,3.3936256,0,0,0,0,898,Installed,0,Good,0,A,2539.54802259887
-20150063,Aalst,9308,830000,Villa,6,382,Steenweg Naar Oudegem,56,50.9813772,4.0475047,0,1,1,215,4162,Hyper equipped,4,Good,0,C,2172.7748691099478
 20174023,Arlon,6700,390000,House,3,134,Rue De La Belle-Vue,83,49.69173989999999,5.8324701,0,0,1,15,555,Installed,4,To be done up,0,D,2910.4477611940297
 20232070,Roeselare,8800,639000,House,3,224,Te Groeneweghe,93,50.9383822,3.100382,0,0,0,0,0,null,3,null,0,A,2852.6785714285716
 20098519,Herzele,9550,799000,Villa,4,225,Molenstraat,54a,50.8788322,3.903175,0,0,1,50,400,Hyper equipped,4,As new,0,A,3551.1111111111113
@@ -2915,7 +2841,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20164613,Woluwe-Saint-Pierre,1150,725000,House,5,230,Avenue Armand Scheitler,47,50.8241823,4.4168594,0,0,1,0,0,Installed,2,To be done up,0,E,3152.1739130434785
 20135786,Woluwe-Saint-Lambert,1200,750000,House,4,190,Avenue Jean Roch Collon,31,50.839898,4.4242626,0,0,1,30,0,Hyper equipped,2,As new,0,F,3947.3684210526317
 20169710,Tremelo,3120,798000,House,6,362,Basdongenstraat,25b,50.9878332,4.6848642,0,0,1,0,0,null,4,Good,0,B,2204.4198895027625
-20205562,Malle,2390,865000,Country cottage,4,370,De Daad,2,51.3101857,4.7210806,0,0,1,0,0,null,4,Good,0,C,2337.837837837838
 20192658,Liedekerke,1770,220000,House,3,114,Ed. Schelfhoutstraat,107,50.8652577,4.1012618,0,0,1,0,281,Installed,3,To be done up,0,F,1929.8245614035088
 20200890,Beveren,9130,230000,House,2,115,Singel,24,51.2924718,4.167847099999999,0,0,1,0,0,null,4,As new,0,B,2000.0
 20200745,Liège,4000,435000,House,3,193,Rue Ambiorix,93,50.6296717,5.5607205,0,0,1,16,0,Hyper equipped,2,Good,0,C,2253.8860103626944
@@ -3027,8 +2952,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20070356,Chaudfontaine,4052,750000,Villa,4,350,Rue De Tilff,16,50.5688849,5.6161246,0,0,1,50,900,Hyper equipped,4,As new,0,B,2142.8571428571427
 11461452,Ranst,2520,759000,House,3,273,Bistweg,58,51.1886308,4.6074684,1,0,1,30,800,Usa installed,4,As new,0,A,2780.21978021978
 20011755,Blégny,4671,775000,Villa,5,329,Rue Haute-Saive,69/01,50.6562333,5.6737445,0,1,1,80,4800,Installed,4,Good,0,C,2355.6231003039516
-20096527,Brugge,8310,850000,House,3,231,Eikenberg,26,51.2108643,3.2664255,0,0,1,10,350,Hyper equipped,4,Just renovated,0,B,3679.65367965368
-20121289,Appels,9200,895000,Villa,5,346,Rijckelstraat,51,51.03167269999999,4.0486052,0,1,1,0,0,Installed,4,Good,0,C,2586.7052023121387
 20205544,Izegem,8870,149000,House,4,165,Baronstraat,27,50.9239342,3.2283772,0,0,1,0,0,null,0,To renovate,0,F,903.030303030303
 20207021,Gent,9000,299000,House,3,151,Damaststraat,100,51.07012049999999,3.686783,0,0,0,0,0,null,0,To renovate,0,F,1980.132450331126
 20238273,Haaltert,9450,199000,House,3,144,Watervoorstraat,13,50.88861559999999,3.9855141,0,0,1,0,0,Semi equipped,2,null,0,F,1381.9444444444443
@@ -3105,7 +3028,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20194231,Lokeren,9160,360000,Town house,5,165,Edgard Tinelstraat,23,51.1177797,4.0004601,0,0,1,0,0,null,2,Good,0,B,2181.818181818182
 20194914,Aalter,9880,398000,House,3,165,Mergelput,2,51.0873747,3.4490054,0,0,1,17,42,Installed,0,Good,0,null,2412.121212121212
 20198713,Zwalm,9630,499000,House,3,176,Kerkstraat,40/3,50.8865457,3.7549627,0,0,1,0,0,Installed,4,Good,0,B,2835.2272727272725
-20194980,Lochristi,9080,825000,Villa,3,342,Bosdreef,86,51.0888797,3.8436063,0,0,0,0,0,null,0,As new,0,B,2412.280701754386
 20247411,Sint-Katelijne-Waver,2860,525000,Farmhouse,4,252,Leliestraat,62,51.06566780000001,4.5554149,0,0,0,0,0,null,0,To renovate,0,F,2083.3333333333335
 20154356,Puurs-Sint-Amands,2870,279000,House,3,182,Breendonk-Dorp,87,51.043777,4.3256916,0,0,1,0,142,null,2,Good,0,C,1532.967032967033
 20227257,Kuurne,8520,360000,House,3,126,Jean-Baptist Davidstraat,4,50.8608349,3.2738442,0,0,0,0,0,null,3,null,0,B,2857.1428571428573
@@ -3133,7 +3055,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20051726,Ronse,9600,199000,House,2,90,Grote Marijve,50,50.7466501,3.609486299999999,0,0,0,0,0,null,0,Good,0,C,2211.1111111111113
 20138118,Temse,9140,265000,House,4,152,Veerstraat,3,51.12428389999999,4.2165406,0,0,0,0,0,null,4,As new,0,C,1743.421052631579
 20167553,Brugge,8310,575000,House,4,303,Antoon De Lensstraat,8,51.1907763,3.2463295,0,0,1,40,350,Installed,4,Good,0,B,1897.6897689768978
-20173140,Brecht,2960,825000,Villa,4,346,Kattenhoflaan,70,51.2899417,4.5685816,0,0,0,0,1000,null,4,Good,0,B,2384.393063583815
 20248609,Borgloon,3840,330435,House,3,143,Hamveld,04,50.79621110000001,5.3462923,0,0,0,0,0,Installed,0,Good,0,null,2310.7342657342656
 20248588,Zonhoven,3520,377473,House,3,214,Veltershof,32B,50.98501950000001,5.3708043,0,0,0,0,0,Installed,0,Good,0,null,1763.892523364486
 20161288,Saint-Georges,4470,189000,House,2,120,Basse Marquet,66,50.5817181,5.3530763,0,0,0,0,639,Not installed,3,To renovate,0,F,1575.0
@@ -3147,7 +3068,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20231701,Lievegem,9950,235000,House,3,155,Leest,76,51.14549050000001,3.604208899999999,0,0,1,0,0,null,2,null,0,F,1516.1290322580646
 20231548,Hemiksem,2620,299000,House,3,135,Sterrelaan,59,51.13747550000001,4.339307499999999,0,0,0,0,0,Not installed,3,To be done up,0,E,2214.814814814815
 20228955,Brugge,8000,395000,House,3,211,Rozendal,29,51.2120101,3.2168937,0,0,0,0,0,null,0,To renovate,0,C,1872.0379146919431
-20232637,Antwerpen Berchem,2600,798000,House,5,194,Eikelstraat,70,51.2002872,4.4240619,0,0,1,11,14,null,2,As new,0,null,4113.40206185567
 20175529,Aalst,9300,219000,House,2,131,Beukendreef,27,50.93354249999999,4.0597784,0,0,1,0,0,null,2,To be done up,0,D,1671.7557251908397
 20184671,Beersel,1650,220000,House,2,160,Emiel Debusscherstraat,42,50.7634727,4.2779258,0,0,1,0,0,Semi equipped,2,To be done up,0,D,1375.0
 20199148,Huy,4500,225000,House,1,105,Rue De La Cloche,11,50.5462035,5.3232251,0,0,1,0,0,Hyper equipped,3,As new,1,C,2142.8571428571427
@@ -3175,7 +3095,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20206650,Merchtem,1785,449000,House,4,221,Kouter,42,50.9711644,4.232090599999999,0,0,1,0,0,null,3,Good,0,null,2031.6742081447965
 20206022,Nijlen Kessel,2560,449000,House,4,280,Lindekensbaan,1B,51.1520647,4.6177132,0,0,1,0,0,Hyper equipped,3,null,0,B,1603.5714285714287
 20203846,Herselt,2230,455000,House,5,306,Madestraat,53,51.0156056,4.8331613,0,0,1,0,0,Installed,4,Good,0,B,1486.9281045751634
-20134396,Knokke-Heist,8300,598000,House,3,146,Hendrik Consciencestraat,69,51.3356631,3.2462652,0,0,1,0,0,Hyper equipped,2,Just renovated,0,B,4095.890410958904
 20145772,Gullegem,8560,625000,House,4,277,Poststraat,41,50.8457532,3.2043547,0,0,1,0,0,null,0,Good,0,B,2256.317689530686
 20151605,Ninove,9400,799000,Villa,4,331,Kruisvijverstraat,18,50.8459212,4.0173678,0,0,1,0,0,Hyper equipped,4,As new,0,B,2413.8972809667675
 20198636,Kortrijk,8500,168500,House,4,135,Oudenaardsesteenweg,313,50.8208394,3.2914489,0,0,1,0,0,null,0,To renovate,0,F,1248.148148148148
@@ -3306,11 +3225,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 11464554,Affligem,1790,795000,Villa,4,265,Langestraat,101,50.9218826,4.092595,0,1,1,55,6500,Hyper equipped,4,Good,0,B,3000.0
 11482691,Arlon,6700,799000,Villa,7,344,Avenue Du Bois D'Arlon,138,49.6721605,5.789512999999999,0,0,1,0,0,Installed,4,Good,0,D,2322.6744186046512
 11482692,Arlon,6700,799000,House,7,344,Avenue Du Bois D'Arlon,138,49.6721605,5.789512999999999,0,0,1,77,0,Installed,4,Good,0,D,2322.6744186046512
-20145029,Brasschaat,2930,845000,Villa,4,321,Hemelakkers,16,51.2865493,4.4885286,0,0,1,30,1056,null,4,null,0,C,2632.398753894081
-20101643,Brasschaat,2930,845000,Villa,4,295,Alfredlei,36,51.2887593,4.454191,1,0,1,0,1115,Installed,4,Good,0,C,2864.406779661017
-20129018,Brugge,8000,845000,Villa,4,344,Dudzeelse Steenweg,156,51.2318909,3.229441,0,0,1,0,325,Hyper equipped,4,As new,1,C,2456.3953488372094
-20145980,Brecht,2960,895000,Villa,6,332,Holleweg,4,51.2944258,4.5579901,0,1,0,0,0,Installed,4,Good,0,A,2695.7831325301204
-11008804,Overijse,3090,895000,House,4,300,Zilverbeekdreef,40,50.731669,4.5291211,0,0,1,15,1700,Hyper equipped,4,Good,0,C,2983.3333333333335
 20233006,Lede,9340,482500,House,3,177,Langehaag,91,50.9654803,3.9439132,0,0,1,31,108,Hyper equipped,3,As new,0,null,2725.9887005649716
 20120776,Lebbeke,9280,235000,House,1,100,Kerkplein,1,51.000638,4.1299759,0,0,0,0,0,Hyper equipped,2,Good,0,D,2350.0
 20207123,Hooglede,8830,249000,House,3,193,Hogestraat,103,50.9818729,3.0695519,0,0,1,0,0,Installed,0,To be done up,0,D,1290.1554404145077
@@ -3346,7 +3260,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20251493,Antwerpen,2140,250000,House,3,127,Toekomststraat,26,51.2163564,4.4358017,0,0,0,0,0,null,4,null,0,D,1968.5039370078741
 20181531,Aartselaar,2630,419500,House,4,208,Zwaluwenlaan,,51.1294207,4.3840301,0,0,1,15,0,Installed,2,Good,0,B,2016.826923076923
 20181545,Herzele,9550,649000,House,4,266,Borsbekestraat,87,50.8972986,3.9008014,0,1,1,0,0,Installed,3,Good,0,A,2439.8496240601503
-20182156,Geel,2440,895000,Villa,4,393,Velveken,54,51.15705999999999,4.9405889,0,0,1,0,0,null,0,As new,0,A,2277.35368956743
 20228566,Sombreffe,5140,200000,House,2,127,Rue Tigrée,26A,50.5156593,4.5733409,0,0,0,0,500,null,0,null,0,F,1574.8031496062993
 20212890,Gent,9000,420000,House,3,144,Zinniastraat,46,51.063132,3.7003387,0,0,0,0,30,Installed,2,As new,0,B,2916.6666666666665
 20093643,Dilbeek,1700,449000,House,6,224,Vrijheidslaan,8,50.841685,4.2608988,0,0,0,0,36,Installed,2,Good,0,B,2004.4642857142858
@@ -3407,7 +3320,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20204095,Sint-Denijs-Westrem,9051,429000,House,3,130,Sint-Dionysiusstraat,27,51.0191728,3.6694997,0,0,1,0,0,null,0,Good,0,B,3300.0
 20201791,Tintigny Rossignol,6730,440000,House,4,315,Rue De Marbehan,255,49.7185833,5.4893573,0,0,1,0,0,Installed,3,As new,0,F,1396.8253968253969
 20195425,Lummen,3560,698000,Villa,3,256,Hoogstraat,29,51.00164789999999,5.1953545,0,0,1,0,0,null,4,Good,0,B,2726.5625
-20215050,Maarkedal,9680,835000,House,6,320,Nederholbeekstraat,226,50.79671769999999,3.620805,0,0,1,0,111,Hyper equipped,2,As new,0,A,2609.375
 20241450,Brugge,8000,340000,House,3,288,Dudzeelse Steenweg,77,51.2272772,3.2277659,0,0,1,50,0,Semi equipped,0,To be done up,0,F,1180.5555555555557
 20241843,Bruxelles  2,1020,450000,House,5,210,Avenue Albert Brachet 9,,50.892786,4.3295121,0,0,0,0,30,Installed,2,null,0,null,2142.8571428571427
 20219331,La Louvière,7110,149000,House,2,132,Rue De L'Abattoir,10,50.4829664,4.1569698,0,0,1,10,54,null,2,To be done up,0,D,1128.7878787878788
@@ -3416,7 +3328,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20220851,Mont,5530,415000,House,3,148,Rue Du Fraichaux,15,50.3548425,4.9055627,0,0,1,0,0,Installed,3,null,0,A++,2804.054054054054
 20220571,Aalst,9300,449000,House,3,148,Louis D'Haeseleerstraat,29,50.9355579,4.0411749,0,0,1,9,0,Hyper equipped,3,As new,0,A,3033.7837837837837
 20218690,Evergem,9940,458000,House,4,177,Twaalfhofsteden,13,51.1535959,3.734159899999999,1,1,1,0,0,Installed,3,null,0,B,2587.5706214689267
-20219678,Halle,1500,899000,House,6,276,Kamerijkbos,10,50.7346657,4.2725702,0,0,1,0,0,Hyper equipped,4,As new,0,C,3257.246376811594
 20039444,Blanden,3052,445000,Country cottage,4,215,Duivenstraat,52,50.835052,4.7048083,0,0,0,0,0,Semi equipped,3,To renovate,0,F,2069.767441860465
 20135613,Heule,8501,259000,House,3,272,Izegemsestraat,109,50.8389441,3.2572982,0,0,1,0,0,null,2,As new,0,F,952.2058823529412
 20122589,Grâce-Hollogne,4460,275000,Town house,3,110,Rue Paul Janson,296,50.623802,5.498548899999999,0,0,1,40,230,Installed,2,As new,0,B,2500.0
@@ -3464,7 +3375,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20187415,Kapellen,2950,735000,Villa,4,302,Kasteeldreef,54,51.3283161,4.437012699999999,0,0,1,0,0,null,4,Good,0,C,2433.774834437086
 20208758,Zoersel,2980,775000,House,4,350,Kanunnik Ullenslaan,22,51.245315,4.632323899999999,0,0,1,0,0,null,4,To be done up,0,C,2214.285714285714
 20188420,Antwerpen,2018,795000,Mansion,5,325,Jan Van Rijswijcklaan,148,51.1950165,4.4030729,0,0,1,35,25,Hyper equipped,2,To be done up,0,D,2446.153846153846
-20184265,Damme,8340,819000,House,4,206,Waterpolder,9,51.2462843,3.3793368,0,0,1,0,0,null,4,As new,0,B,3975.7281553398057
 20198861,Arlon,6700,245000,House,3,140,Rue De Neufchâteau,16,49.6851227,5.80831,0,0,1,16,0,Installed,2,Good,0,E,1750.0
 20180762,Neufchâteau,6840,314900,House,3,133,Chaussée D'Arlon,124A,49.8372537,5.458394699999999,0,0,1,9,761,null,3,Good,0,A,2367.6691729323306
 20200657,Heist-Op-Den-Berg,2220,326000,House,3,123,Lodewijk Liekenswijk,9,51.07514889999999,4.7156877,0,0,1,21,0,null,0,null,0,E,2650.4065040650407
@@ -3615,7 +3525,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20112202,Wolkrange,6780,775000,House,5,191,Rue Des Calvaires,45,49.6322164,5.805165700000001,0,0,1,25,2200,Installed,4,Good,0,B,4057.5916230366493
 20082848,Woluwe-Saint-Lambert,1200,795000,House,5,349,Rue De La Cambre,296,50.8396238,4.4290514,1,0,1,14,50,Hyper equipped,2,As new,0,F,2277.9369627507162
 11407012,Oudenaarde,9700,799000,House,5,391,Karel Martelstraat,9,50.8373804,3.6567271,0,0,1,0,0,null,0,Good,1,D,2043.4782608695652
-20109131,Attert,6717,850000,House,4,290,Chemin Des Ecrevisses,32,49.7134665,5.7383447,0,1,1,35,1400,Installed,4,Good,0,C,2931.0344827586205
 20207005,Sint-Michiels,8200,375000,House,3,182,Kranenburg,10,51.1791564,3.2135284,0,0,0,0,0,Installed,0,To renovate,0,F,2060.4395604395604
 20206982,Zwevezele,8750,431400,House,3,224,Tramstraat,1B,51.0394947,3.2160744,0,0,1,0,0,null,0,Good,0,A,1925.892857142857
 20206978,Zwevezele,8750,432800,House,4,240,Tramstraat,1C,51.039567,3.2161218,0,0,1,0,0,null,0,Good,0,A,1803.3333333333333
@@ -3754,7 +3663,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20194561,Oud-Heverlee,3050,649000,Villa,3,190,Kerkeveld,46B,50.8283571,4.7308273,0,0,1,44,0,Hyper equipped,3,Good,0,B,3415.7894736842104
 20139589,Tinlot,4557,695000,House,4,181,Rue Croix Rouge,19,50.4832288,5.4147244,0,0,1,9,5743,Installed,4,Good,0,C,3839.779005524862
 20139514,Woluwe-Saint-Lambert,1200,750000,Town house,4,190,Avenue Jean Roch Collon,31,50.839898,4.4242626,1,0,1,30,0,null,2,As new,0,F,3947.3684210526317
-20148164,Woluwe-Saint-Lambert,1200,890000,House,4,286,Avenue Du Castel,67,50.8411426,4.4114514,0,0,0,0,15,Hyper equipped,2,As new,0,D,3111.888111888112
 20199467,Hotton,6990,169000,House,3,164,Rue De La Vallée,10,50.2689044,5.446271599999999,0,0,0,0,0,Semi equipped,3,To be done up,0,F,1030.4878048780488
 20200828,Geraardsbergen,9500,169000,House,2,94,Gentsestraat,134,50.77580529999999,3.8739284,0,0,0,0,0,Installed,2,Good,0,A,1797.872340425532
 20199622,Sint-Katelijne-Waver,2860,299000,House,3,153,Tuinstraat,36,51.0400887,4.5100129,0,0,1,0,0,Installed,0,Good,0,D,1954.248366013072
@@ -3855,7 +3763,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 11451204,Antwerpen,2610,425000,House,3,219,Lodewijk Ontropstraat,15,51.1812558,4.388940600000001,1,0,1,10,60,Installed,2,To be done up,0,C,1940.6392694063927
 11381092,Drongen,9031,425000,House,3,203,Baarlewarande,12,51.0329608,3.603032,0,0,1,0,424,null,0,Good,0,C,2093.5960591133003
 20052563,Aubange Halanzy,6792,435000,House,3,189,Rue Croix Rouget,18,49.564969,5.7589481,0,0,1,0,900,Installed,4,Good,0,D,2301.5873015873017
-20023826,Rhode-Saint-Genèse - Sint-Genesius-Rode,1640,439000,Bungalow,3,106,Avenue De L'Avenir,33,50.75276359999999,4.3552431,0,0,1,15,450,Semi equipped,4,To be done up,0,F,4141.509433962264
 20133545,Zottegem,9620,439000,House,5,225,Sint-Annastraat,31,50.86673709999999,3.8125591,0,0,1,0,0,null,0,Good,0,A,1951.111111111111
 20036160,Destelbergen,9070,445000,House,4,175,Sint-Pietershofstraat,3,51.05712519999999,3.8037512,0,0,0,0,0,null,2,Just renovated,0,B,2542.8571428571427
 20122985,Zelzate,9060,449000,House,4,267,Burgemeester Jos. Chalmetlaan,16,51.1977439,3.8137226,0,0,1,55,330,Installed,2,Good,0,C,1681.6479400749063
@@ -3903,15 +3810,9 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20181405,Haacht,3150,725000,Villa,4,223,Plantsoenbosstraat,7,50.9404495,4.653135499999999,0,1,0,0,120,Hyper equipped,4,As new,0,C,3251.121076233184
 20085282,Oostende,8400,749000,Country cottage,4,315,Geleedstraat,45,51.1895988,2.9659358,0,0,1,0,0,null,4,To be done up,0,D,2377.777777777778
 20172177,Huizingen,1654,750000,House,3,305,Steenweg Naar Alsemberg,930,50.7438635,4.270951699999999,1,0,1,30,2000,Hyper equipped,4,null,0,E,2459.0163934426228
-20112461,Wingene,8750,779000,House,2,190,Kapelledreef,6,51.0647715,3.2178034,0,0,1,0,0,Installed,4,Good,0,D,4100.0
 11184064,Etterbeek,1040,795000,House,5,320,Rue Louis Hap,194,50.8366192,4.3932335,0,0,1,20,80,Not installed,2,To renovate,0,F,2484.375
 20016448,Wezembeek-Oppem,1970,795000,House,4,250,Clos Des Bouleaux,28,50.8481536,4.4921923,0,0,1,35,440,Hyper equipped,4,To renovate,0,D,3180.0
 11467427,Woluwe-Saint-Pierre,1150,799000,House,5,260,Avenue Du Chant D'Oiseau,148,50.8215087,4.4107296,0,0,1,15,75,Not installed,2,Good,0,G,3073.076923076923
-11443167,Ravels,2380,820000,Villa,5,357,Berkenlaan,81,51.36715940000001,4.9838119,1,0,1,40,2551,Hyper equipped,4,As new,0,B,2296.918767507003
-20111631,Zulte,9870,839000,House,6,320,Kasteelstraat,17,50.9429289,3.4697146,0,0,1,0,0,null,0,Good,0,B,2621.875
-11478247,Hombeek,2811,849000,House,4,234,Boomkensstraat,6,51.0055868,4.417063199999999,0,0,1,30,92,Installed,4,null,0,A,3628.2051282051284
-20076316,Messancy,6780,875000,House,5,390,Rue Des Blés D'Or,46,49.63654529999999,5.8315439,0,0,1,50,3000,Installed,4,Good,0,D,2243.5897435897436
-20115458,Uccle,1180,890000,House,0,280,Avenue Des Ormeaux,6,50.8117221,4.3474768,0,0,0,0,0,null,2,To be done up,0,G,3178.5714285714284
 20233133,Galmaarden,1570,542377,Villa,3,191,Dorekensstraat,-,50.7740592,3.956455,0,0,1,0,0,null,4,As new,0,null,2839.670157068063
 20211395,Zelzate,9060,350000,House,4,277,Wachtebekestraat,64,51.1984107,3.819267,0,0,1,0,120,null,0,null,0,F,1263.537906137184
 20237569,Aywaille,4920,199000,House,3,149,Rue Alphonse Gilles,14,50.4732008,5.672931,0,0,1,0,0,Installed,2,Good,0,F,1335.5704697986578
@@ -4015,7 +3916,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20242505,Izegem,8870,125000,House,2,119,Molenweg,15,50.92080199999999,3.2077948,0,0,1,0,0,Installed,3,To renovate,0,E,1050.420168067227
 20219996,Maldegem,9990,195000,House,3,119,Breugellaan,11,51.2138637,3.4367979,0,0,0,0,0,Semi equipped,4,To renovate,0,F,1638.6554621848738
 20219420,Anzegem,8570,227500,House,1,150,Kerkstraat,73,50.8361268,3.4761504,0,0,1,0,0,Semi equipped,3,null,0,C,1516.6666666666667
-20218602,Niel,2845,649000,Villa,3,158,Irisstraat,28,51.1139336,4.3359467,0,0,1,27,0,Installed,0,null,0,null,4107.594936708861
 20179192,Maldegem,9990,259000,House,3,137,Brielwegel,3,51.2028986,3.4403344,0,0,0,0,0,null,3,To be done up,0,E,1890.5109489051094
 20192230,Liège,4032,279000,House,4,290,Quai Henri-Borguet,141,50.60392909999999,5.6268194,0,0,1,36,180,Installed,2,Good,0,D,962.0689655172414
 20114949,Geraardsbergen,9500,400000,House,3,252,Buizemontstraat,93,50.7688923,3.8828322,0,0,0,0,0,Installed,2,Good,0,B,1587.3015873015872
@@ -4236,7 +4136,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 11348438,Oudenaarde,9700,775000,Farmhouse,4,380,Kerkgate,35,50.8459553,3.6668358,0,0,1,0,0,null,0,Good,0,null,2039.4736842105262
 20023733,Ravels,2382,780000,Villa,3,297,De Meerkens,22,51.4553442,5.048692099999999,0,0,1,50,0,Hyper equipped,4,As new,0,C,2626.2626262626263
 20082020,Antwerpen,2018,795000,House,5,302,Generaal Lemanstraat,29,51.1954898,4.4109677,0,0,1,12,15,Installed,0,Just renovated,0,C,2632.4503311258277
-20089352,Merchtem,1785,848000,Villa,5,315,Robbroeklaan,2,50.9514546,4.232599,0,1,0,0,1400,null,4,Good,0,A,2692.063492063492
 20200415,Kortemark,8610,245000,House,4,162,Edewallestraat,98,51.0499289,3.0115452,0,0,0,0,0,null,4,Good,0,D,1512.3456790123457
 20120785,Sint-Pieters-Leeuw,1600,349000,House,3,135,Platanenlaan,27,50.7915637,4.2850231,0,0,1,0,0,Installed,3,To be done up,0,E,2585.185185185185
 20235587,Rhode-Saint-Genèse,1640,785000,House,7,250,Avenue Des Cerisiers,2,50.7518398,4.3698587,0,0,0,0,0,null,4,Good,0,C,3140.0
@@ -4253,7 +4152,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20111830,Torhout,8820,469000,House,4,230,Aartrijkestraat,80,51.0732838,3.0992079,0,0,1,0,276,null,4,As new,0,D,2039.1304347826087
 20110231,Tielt-Winge,3390,478000,House,3,120,Begijnenbosweg,9,50.9555222,4.8995547,0,0,1,0,0,Hyper equipped,4,Good,0,A,3983.3333333333335
 20109914,Ixelles,1050,775000,House,6,294,Rue Emile Banning,23,50.8196887,4.3846482,0,0,1,2,40,Semi equipped,2,Good,0,G,2636.0544217687075
-20192304,Zedelgem,8210,835000,Villa,4,373,Kronestraat,10,51.1421423,3.1280718,1,0,0,0,0,Hyper equipped,4,As new,0,C,2238.6058981233246
 20161765,Uccle,1180,398000,House,0,186,Avenue Kersbeek - Kersbeeklaan,308,50.8010446,4.3227489,0,0,0,0,0,Semi equipped,2,To renovate,0,D,2139.7849462365593
 20179178,Oostkamp,8020,190000,House,2,125,Maciebergstraat,65,51.1533524,3.2295856,0,0,0,0,0,null,3,To renovate,0,F,1520.0
 20175124,Harelbeke,8530,275000,House,2,138,Noordstraat,41,50.8584496,3.3170892,0,0,1,12,0,Installed,2,null,0,B,1992.7536231884058
@@ -4315,7 +4213,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20206628,Wez-Velvain,7620,190000,House,2,150,Rue Du Chauchoir,23,50.5476021,3.3921347,0,0,1,0,0,Semi equipped,3,To be done up,0,G,1266.6666666666667
 20204227,Dadizele,8890,229000,House,4,310,Ketenstraat,12,50.8503603,3.0941014,0,0,1,0,0,null,0,null,0,F,738.7096774193549
 20164210,Flémalle,4400,360000,House,4,243,Rue Du Bois Garguenne,67,50.61983,5.458585999999999,0,0,1,60,236,Installed,2,Good,0,B,1481.4814814814815
-20205241,Overijse,3090,825000,House,5,250,Tulpenlaan,24,50.7954155,4.4909736,0,0,0,0,700,Installed,4,null,0,D,3300.0
 20219579,Leuven,3018,349000,House,3,160,Wakkerzeelsebaan,53,50.9315892,4.6897774,0,0,1,0,0,null,0,To renovate,0,D,2181.25
 20154423,Glabbeek,3380,535000,House,4,220,Oude Diestsestraat,12,50.8462959,4.9548026,0,0,0,0,0,null,4,As new,0,C,2431.818181818182
 20191773,Gent,9000,573000,House,4,190,Rooigemlaan,267,51.058566,3.6927671,0,0,0,0,25,null,0,Good,0,B,3015.7894736842104
@@ -4351,7 +4248,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20204865,Nijlen,2560,675000,House,4,327,J. E. Claeslaan,27,51.1586272,4.665422599999999,0,1,1,0,500,Hyper equipped,4,null,0,D,2064.2201834862385
 20202097,Oud-Turnhout,2360,680000,Villa,4,301,Staatsbaan,59,51.3106209,5.0235847,0,0,1,0,0,null,4,To be done up,0,C,2259.136212624585
 20205561,Ranst,2520,699000,House,4,188,Rundvoortstraat,3,51.2103524,4.5922262,0,0,1,0,0,null,3,As new,0,A,3718.0851063829787
-20199261,Ottignies,1340,845000,House,5,300,Chemin Des Hayettes,1,50.6768413,4.5312841,0,0,1,40,0,Hyper equipped,4,As new,0,C,2816.6666666666665
 20180256,Ronse,9600,89000,House,3,131,Ninovestraat,109,50.7510129,3.6097311,0,0,1,8,0,Semi equipped,2,To renovate,0,F,679.3893129770993
 20196224,Dergneau,7912,145000,House,3,137,Chaussée De Renaix,106,50.7150507,3.5793454,0,0,1,0,0,null,0,Just renovated,0,D,1058.3941605839416
 20200563,Senzeille,5630,295000,House,3,190,Rue De L'Horloge,192,50.1775043,4.4591173,0,0,0,0,0,Semi equipped,4,Good,0,E,1552.6315789473683
@@ -4569,8 +4465,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20097886,Oud-Heverlee,3052,745000,House,4,195,Wijnbergstraat,16,50.8273071,4.7099307,0,0,1,0,0,null,4,To be done up,0,E,3820.5128205128203
 20127506,Ottignies-Louvain-La-Neuve,1340,795000,House,4,220,Avenue Reine Fabiola,46,50.6690411,4.5659187,0,0,1,0,0,Hyper equipped,4,As new,0,B,3613.6363636363635
 20150868,Kontich,2550,799000,Villa,5,387,De Villermontstraat,19,51.1400657,4.4393171,1,0,0,0,0,Installed,4,Good,0,D,2064.5994832041342
-20042245,Leuven Heverlee,3001,860000,Villa,3,230,Prinses Lydialaan,72,50.8543445,4.681680099999999,0,0,1,0,0,Hyper equipped,4,Good,0,B,3739.1304347826085
-20047157,Brasschaat,2930,870000,House,2,289,Hensbergelei,63,51.3196719,4.5332795,1,0,1,0,0,Hyper equipped,4,Good,0,B,3010.38062283737
 20207138,Ronse,9600,299000,House,4,100,Scheldekouter,239,50.7406403,3.6137387,0,0,0,0,0,null,0,null,0,D,2990.0
 20157185,Gent,9031,350000,Villa,0,168,Ernest Solvynsdreef,24,51.03447569999999,3.6308006,0,0,0,0,0,null,4,Good,0,F,2083.3333333333335
 20207098,Vilvoorde,1800,585000,House,0,350,Devoerlaan,81,50.9143912,4.3696129,0,0,0,0,0,null,0,Good,0,C,1671.4285714285713
@@ -4610,7 +4504,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20136451,Kortrijk,8500,279000,House,3,147,Moorseelsestraat,73,50.8319017,3.2499249,0,0,1,0,0,null,2,As new,0,D,1897.9591836734694
 20156443,Oostkamp,8020,645000,House,5,280,Kortrijksestraat,163,51.1443246,3.2310582,0,0,1,0,0,null,4,Good,0,C,2303.5714285714284
 20188609,Messancy,6780,419800,House,3,203,Avenue De Longwy,-,49.5859504,5.8130709,0,0,1,37,0,Installed,3,As new,0,null,2067.9802955665023
-20226701,Herent,3020,765000,House,4,183,Haachtstraat,194,50.9350836,4.617077,0,0,1,30,1036,Hyper equipped,4,Just renovated,0,A,4180.327868852459
 20233025,Houffalize,6660,310000,House,4,368,Rue De Liège,33,50.1384133,5.7889219,0,0,0,0,0,null,4,null,0,D,842.3913043478261
 20234262,Verlaine,4537,389000,House,3,165,Tige Du Paz,,50.6066649,5.3312844,0,0,1,0,0,null,0,null,0,null,2357.5757575757575
 20233653,Woluwe-Saint-Pierre,1150,785000,House,5,225,Emmanuel Mertensstraat,15,50.83188269999999,4.442461,0,0,0,0,200,Installed,2,To renovate,0,G,3488.8888888888887
@@ -4899,7 +4792,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 11359204,Lier,2500,649000,Mansion,3,335,Mosdijk,17,51.1318732,4.574574,0,0,1,0,120,Semi equipped,2,To be done up,0,D,1937.313432835821
 20188587,Brasschaat,2930,649000,House,4,279,Lage Kaart,124,51.2972094,4.4732689,0,0,1,0,1000,Hyper equipped,4,Good,0,C,2326.1648745519715
 20125655,Waterloo,1410,650000,Villa,4,270,Avenue Des Eglantines,15,50.7077927,4.4057463,1,0,0,0,0,null,4,To renovate,0,E,2407.4074074074074
-20035482,Oostduinkerke,8670,650000,House,4,156,Nieuwpoortsteenweg,17,51.1171634,2.6879295,1,0,0,0,1900,Installed,4,To be done up,0,F,4166.666666666667
 20030659,Leuven,3000,665000,House,4,206,Vital Decosterstraat,63,50.8820456,4.703185,0,0,1,11,0,null,2,null,0,B,3228.1553398058254
 20101236,Berchem,2600,669000,House,5,202,Strijdhoflaan,112,51.18329809999999,4.4282916,0,0,0,0,14,null,2,Just renovated,0,A,3311.8811881188117
 11451426,Oostrozebeke,8780,675000,House,4,284,Leegstraat,23,50.9188165,3.3286731,0,0,1,0,0,Installed,0,Good,0,C,2376.760563380282
@@ -4914,9 +4806,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20157489,Knokke-Heist,8300,749000,Villa,5,240,Damweg,40,51.3317067,3.3140885,0,0,0,0,0,null,0,Good,0,C,3120.8333333333335
 10636460,Woluwe-Saint-Pierre,1150,765000,House,4,214,Rue Au Bois,266,50.8319542,4.4505725,0,0,1,0,0,Semi equipped,3,To renovate,0,G,3574.766355140187
 11440044,Willebroek,2830,795000,Villa,7,373,Eikstraat,2,51.0595436,4.3567066,1,0,1,0,0,Hyper equipped,4,As new,0,B,2131.3672922252013
-11334717,Izegem,8870,805000,House,3,349,Wallemotestraat,83,50.91007459999999,3.192653,0,0,1,0,0,Installed,0,To renovate,0,F,2306.5902578796563
-20166129,Schilde,2970,894500,Villa,5,250,Groene Wandeling,16,51.261147,4.5796132,1,1,1,50,800,null,4,null,0,B,3578.0
-20163378,Lokeren,9160,895000,House,5,358,Bakkerstraat,77,51.0906887,4.0068281,0,0,1,0,0,null,4,Good,0,B,2500.0
 20186381,Sint-Niklaas,9100,359000,House,2,160,Vijfstraten,128,51.1783514,4.1539849,0,0,0,0,0,Installed,0,To be done up,0,E,2243.75
 20170688,Geraardsbergen,9500,149000,House,2,100,Reepstraat,18,50.7752437,3.8730368,0,0,1,22,0,Semi equipped,2,To renovate,0,F,1490.0
 20175795,Wetteren,9230,279000,House,3,176,Smetledesteenweg,119,50.9925548,3.9014255,0,0,1,0,0,null,3,Good,0,D,1585.2272727272727
@@ -4947,7 +4836,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20222030,Maldegem,9990,269000,Bungalow,2,108,Brugse Steenweg,243,51.2072091,3.4081942,0,0,0,0,0,null,4,null,0,D,2490.740740740741
 20221187,Gent,9000,270000,House,4,210,Vorkstraat,90,51.0752151,3.7330712,0,0,0,0,0,null,0,null,0,B,1285.7142857142858
 20222926,Braine-Le-Château,1440,395000,Villa,3,180,Rue Aux Racines,1,50.6793912,4.2570621,0,0,1,25,500,null,4,Good,0,D,2194.4444444444443
-20221186,Gent,9000,449000,House,2,110,Meersenierstraat,12,51.06783069999999,3.7290914,0,0,0,0,0,null,0,To be done up,0,E,4081.818181818182
 20158473,Zele,9240,149000,House,3,110,Schoolstraat,21,51.08645569999999,4.0535162,0,0,0,0,0,null,2,To renovate,0,E,1354.5454545454545
 20191486,Bruxelles,1020,435000,House,4,175,Rue Ledeganck,31,50.8825626,4.3394926,0,0,0,0,25,Semi equipped,2,Good,0,F,2485.714285714286
 20191036,Olen,2250,543000,House,3,241,Kattebos,8-10,51.14022689999999,4.8585685,0,0,1,28,498,Installed,3,null,0,null,2253.1120331950206
@@ -5251,12 +5139,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20085622,Roeselare,8800,795000,House,5,366,Stationsdreef,209,50.9522643,3.1282905,0,0,0,0,0,null,4,As new,0,C,2172.1311475409834
 11116929,Leuven,3010,798000,House,4,233,Zavelstraat,50,50.8864577,4.7575333,0,0,1,0,0,null,4,As new,0,A,3424.892703862661
 11367006,Kersbeek-Miskom,3472,799000,Villa,6,342,Hoogemeyer,1,50.8952442,4.9942635,0,0,0,0,0,null,6,Good,0,C,2336.2573099415204
-20050865,Rotselaar,3110,810000,House,4,351,Elzendreef,6,50.9713978,4.764103,0,0,0,0,0,null,4,Good,0,B,2307.6923076923076
-20036550,Brasschaat,2930,845000,House,5,365,Ternincklei,3,51.2710138,4.460235,0,1,0,0,0,null,4,Good,0,D,2315.068493150685
-20096057,Oostkerke,8340,865000,House,4,217,Sint-Guthagostraat,1A,51.278119,3.2956815,0,0,1,0,0,null,0,Good,0,A,3986.1751152073734
-11447465,Molenstede,3294,875000,Villa,4,333,Fort Leopoldlaan,13,50.9964661,5.045378400000001,0,0,0,0,0,null,4,Good,0,F,2627.6276276276276
-11224645,Knokke-Heist,8301,875000,Villa,6,215,Duinbergenlaan,60,51.3405722,3.2622011,0,0,0,0,0,null,4,To renovate,0,F,4069.767441860465
-11211930,Pelt,3900,885000,Villa,4,368,Vrenenstraat,46,51.1922882,5.3953281,0,1,0,0,0,null,4,As new,0,C,2404.891304347826
 20193074,Welle,9473,285000,House,2,133,Broekstraat,103,50.89936729999999,4.042191799999999,0,0,1,0,0,null,3,To be done up,0,F,2142.8571428571427
 20206977,Tielt,8700,453500,House,3,198,Blekerijstraat,3,50.9899639,3.3305294,0,0,1,0,0,null,0,Good,0,A,2290.40404040404
 20218258,Bouffioulx,6200,195000,House,2,90,Rue Cyprien Prévôt,44a,50.39454019999999,4.5157246,0,0,0,0,0,null,3,As new,0,null,2166.6666666666665
@@ -5264,7 +5146,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20213546,Deerlijk,8540,399000,House,2,266,Kapelstraat,33,50.8204692,3.3773205,0,0,1,0,0,null,2,null,0,C,1500.0
 20181117,Vlissegem,8421,435000,House,3,150,Lepelemstraat,2F,51.2539913,3.0577986,0,0,1,35,80,Installed,4,As new,0,D,2900.0
 20109884,Trooz,4870,619000,Villa,6,330,Rue De La Drève,7A,50.5534407,5.6771856,1,1,1,70,600,Installed,4,To be done up,0,C,1875.7575757575758
-20192901,Lochristi,9080,858000,Villa,5,240,Persijzerstraat,45,51.12823479999999,3.8895497,0,0,1,0,0,Hyper equipped,4,null,0,A,3575.0
 20181346,Saint-Nicolas,4420,225000,House,3,145,Rue Ferdinand Nicolay,582,50.62259599999999,5.5303378,0,0,1,25,135,Installed,2,Good,0,D,1551.7241379310344
 20180130,Ingelmunster,8770,339500,House,3,185,Kortrijkstraat,29,50.9105628,3.2587309,0,0,0,0,0,Installed,0,Good,0,B,1835.1351351351352
 20131884,Molenbeek-Saint-Jean,1080,550000,House,6,284,Vandermaelenstraat,44,50.8539888,4.3408063,0,0,1,10,50,Hyper equipped,2,Good,0,D,1936.619718309859
@@ -5365,7 +5246,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20143341,Beersel,1652,550000,House,3,210,Blutsdelle,9,50.7491766,4.327677899999999,0,0,1,30,634,Installed,4,As new,0,D,2619.0476190476193
 20167440,Gent,9000,699000,House,5,262,Simon De Mirabellostraat,5,51.0585291,3.7157299,0,0,0,0,28,null,2,null,0,F,2667.93893129771
 20177201,Tervuren,3080,720000,Villa,6,321,Kwikstaartlaan,40,50.8552748,4.543500499999999,0,0,0,0,0,null,4,null,0,C,2242.9906542056074
-20156570,Watermael-Boitsfort,1170,895000,House,6,284,Avenue De Tercoigne,45,50.81492369999999,4.4056071,0,0,1,30,0,null,3,To be done up,0,F,3151.4084507042253
 20040431,Wetteren,9230,225000,House,4,134,Gentsesteenweg,65,51.0014295,3.8772544,0,0,1,0,0,Hyper equipped,2,Good,0,D,1679.1044776119404
 20198709,Wespelaar,3150,410000,House,2,237,Grote Baan,43,50.9586099,4.636251400000001,0,0,1,0,0,Hyper equipped,0,null,0,D,1729.957805907173
 20164755,Berchem-Sainte-Agathe,1082,440000,House,4,197,Rue Des Combattants,20,50.8666028,4.2958456,0,0,1,17,123,null,2,null,0,G,2233.502538071066
@@ -5577,8 +5457,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20106902,Sint-Lievens-Esse,9550,635000,Farmhouse,4,300,Zavelstraat,52,50.846709,3.911688,1,0,1,100,8800,null,0,To renovate,0,F,2116.6666666666665
 20011573,Oudenburg,8460,645000,House,2,227,Brugsesteenweg,88,51.1668202,3.0259865,0,0,0,0,0,null,4,Good,0,B,2841.409691629956
 20075915,Staden,8840,649000,House,5,284,Houthulststraat,106,50.9721032,3.005478,0,0,1,0,0,Installed,0,Good,0,B,2285.211267605634
-20161846,Ninove,9400,649000,Villa,3,158,Okegembaan,136,50.848437,4.0366217,0,0,1,70,4500,Hyper equipped,4,As new,0,C,4107.594936708861
-20161844,Ninove,9400,649000,Bungalow,3,158,Okegembaan,136,50.848437,4.0366217,0,0,1,70,4500,Hyper equipped,4,As new,0,C,4107.594936708861
 20121032,Hasselt,3500,665000,House,3,290,Palmstraat,44,50.93512699999999,5.3262911,0,0,0,0,0,null,2,As new,0,B,2293.103448275862
 20080812,Oud-Turnhout,2360,695000,Villa,5,316,Goordijk,7,51.3150325,5.0263705,0,0,0,0,0,null,4,Good,0,C,2199.3670886075947
 11420163,Beringen,3583,695000,Country cottage,5,357,Brelaarstraat,29,51.0415794,5.1474101,1,0,0,0,0,null,4,Good,0,D,1946.778711484594
@@ -5591,14 +5469,6 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20161914,Deinze,9800,780000,House,5,216,Leernsesteenweg,280,51.0171454,3.5909432,0,0,0,0,1,null,4,To restore,0,F,3611.1111111111113
 11354361,Brugge,8000,785000,House,3,245,Ontvangersstraat,2,51.2080804,3.2201845,0,0,1,0,0,null,0,Good,0,D,3204.081632653061
 11482067,Evergem,9940,795000,Villa,6,340,Eeklostraat,66,51.1793527,3.7402742,0,1,0,0,0,null,4,As new,0,C,2338.235294117647
-11455149,Oudenburg,8460,815000,Country cottage,5,313,Schorrendijk,10,51.187406837879216,2.939846697864976,1,0,0,0,0,null,4,Good,0,F,2603.8338658146963
-11374305,Woluwe-Saint-Lambert,1200,835000,Mansion,4,260,Avenue De Septembre,11,50.84750810000001,4.4156392,0,0,1,16,0,Hyper equipped,2,As new,0,E,3211.5384615384614
-11444536,Damme,8340,845000,House,2,352,Jacob Van Maerlantstraat,9,51.251569,3.2821979,0,0,1,43,22,Hyper equipped,2,As new,0,A,2400.568181818182
-20105036,Turnhout,2300,875000,Villa,4,385,Wieltjes,1,51.3312641,4.9191736,0,0,0,0,0,null,4,As new,0,C,2272.7272727272725
-10564403,Knokke,8300,875000,House,6,215,Elizabetlaan,0,51.3541263,3.2989037,0,0,0,0,0,null,4,Good,0,F,4069.767441860465
-20168057,Rijkevorsel,2310,895000,House,5,383,Molenstraat,86,51.3537448,4.7538805,1,0,0,0,0,null,4,Good,0,C,2336.8146214099215
-20094638,Gent,9000,895000,House,3,250,Kasteellaan,291,51.05211749999999,3.7403409,0,0,1,0,0,null,4,As new,0,A,3580.0
-11474368,Brugge,8000,899000,House,5,290,Sint-Jakobsstraat,51,51.2110566,3.2208104,0,0,0,0,0,null,4,Good,0,C,3100.0
 20234208,Arlon,6700,415000,House,4,155,Route De Longwy,525a,49.6584099,5.8212101,0,0,1,1,1,Installed,0,As new,0,B,2677.4193548387098
 20234980,Zottegem,9620,428000,House,3,175,Gieterijstraat,46,50.8633331,3.8091133,0,0,1,0,0,Hyper equipped,3,null,0,null,2445.714285714286
 20192800,Huy,4500,215000,House,4,152,Chaussée De Waremme,90,50.52950690000001,5.2345333,0,0,1,0,232,Installed,2,Good,0,C,1414.4736842105262
@@ -5885,12 +5755,8 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20152635,Laken (Bru.),1020,750000,Villa,5,275,Mutsaertlaan,86,50.9009264,4.3572805,0,0,1,0,0,Semi equipped,4,Good,0,E,2727.2727272727275
 11486255,Woluwe-Saint-Pierre,1150,750000,House,4,222,Rue Louis Titeca,49,50.834348,4.4317913,0,0,1,27,0,Hyper equipped,2,As new,0,D,3378.3783783783783
 20107489,Kasterlee,2460,775000,House,3,200,Loopstraat,24,51.2408891,4.8893947,0,0,0,0,0,null,4,Good,0,B,3875.0
-20034308,Ninove,9400,778000,House,4,187,Aardeweg,31,50.8332097,3.9975167,0,0,1,0,0,null,0,null,0,D,4160.427807486631
 20106009,Vosselaar,2350,795000,Villa,5,339,Fabiolalaan,5,51.3121753,4.8745631,0,0,1,0,0,null,4,As new,0,C,2345.1327433628317
 20098958,Gent,9000,797000,House,4,250,Schoolkaai,33,51.056098,3.7378139,0,0,0,0,25,Installed,2,Good,0,C,3188.0
-20123638,Antwerpen,2060,850000,Mansion,4,235,Everaertsstraat,16 18,51.22681170000001,4.4228982,0,0,1,20,0,null,4,As new,0,B,3617.021276595745
-11437631,Woluwe-Saint-Pierre,1150,865000,House,6,220,Avenue Du Monoplan,14,50.8339835,4.4496726,0,0,1,10,350,Not installed,3,To renovate,0,G,3931.818181818182
-20096055,Brugge,8000,895000,Mansion,3,252,Strostraat,2,51.212522,3.22987,1,0,0,0,85,Hyper equipped,2,As new,0,C,3551.5873015873017
 20234590,Blegny-Barchon,4671,299000,House,3,146,Rue Des Trente-Trois,-,50.6701704,5.6913303,0,0,1,0,0,null,2,null,0,null,2047.945205479452
 20211076,Landen,3400,325000,House,3,165,Gordelstraat,46,50.7261739,5.068408499999999,0,0,0,0,0,null,0,null,0,A,1969.6969696969697
 20238434,Lessines,7860,168000,House,3,128,Chemin D'Enghien,61,50.7069,3.8463134,1,0,0,0,0,null,2,Good,0,C,1312.5
@@ -5923,14 +5789,12 @@ id,locality_name,Postal_code,Price,Subtype,Number_of_bedrooms,Living_area,street
 20223762,Torhout,8820,189000,House,3,118,Eugeen Van Oyestraat,11,51.0633129,3.1001355,0,0,1,0,0,null,2,As new,0,B,1601.6949152542372
 20225269,Koningshooikt,2500,348000,House,3,124,Leike,7,51.09436969999999,4.6095112,0,0,0,0,0,Installed,0,null,0,D,2806.451612903226
 20221809,Tienen,3300,349000,House,2,260,Oude Heerweg,93,50.7973398,4.979203099999999,0,0,1,0,0,null,4,To restore,0,F,1342.3076923076924
-20163434,Schilde,2970,825000,Villa,4,367,Bergendreef,11,51.2295124,4.5613415,0,0,1,0,0,null,4,null,0,C,2247.956403269755
 20127843,Aalst,9300,205000,House,3,215,Denderweg,2,50.9836177,4.051416,0,0,1,0,0,Installed,3,To renovate,0,F,953.4883720930233
 20165977,Halanzy,6792,245000,House,4,175,Rue De L'Industrie,37,49.55895659999999,5.7393351,0,0,0,0,0,Semi equipped,4,To renovate,0,G,1400.0
 20174154,Koningshooikt,2500,449000,Villa,3,148,Kruisstraat,26,51.1055512,4.5945695,1,0,0,0,0,Installed,4,null,0,E,3033.7837837837837
 20197492,Houthulst,8650,244800,House,3,150,Borstelstraat,14,50.9758559,2.9367388,0,0,0,0,0,null,4,Good,0,null,1632.0
 20128473,Zwalm,9630,549000,House,3,225,Borstekouterstraat,94A,50.8687938,3.7542066,0,0,1,24,0,Hyper equipped,3,As new,0,null,2440.0
 20183095,Braine-L'Alleud,1420,575000,Villa,5,141,Rue Du Chapitre,26,50.67247990000001,4.272154899999999,0,0,1,0,0,null,4,null,0,A,4078.0141843971633
-20197453,Lontzen,4710,820000,Villa,5,197,Rue Des Dahlias,62,50.6998607,5.9789271,0,0,1,0,600,Installed,4,As new,0,A++,4162.436548223351
 20196095,Assebroek,8310,239000,House,2,80,Astridlaan,249,51.1949261,3.2621367,0,0,0,0,0,null,4,Good,0,F,2987.5
 20208261,Arlon,6700,260000,House,6,368,Rue Du Centre,39+,49.6997215,5.8290371,0,0,0,0,0,Not installed,3,To renovate,0,null,706.5217391304348
 20207866,Keerbergen,3140,345000,House,4,205,Aspergeveld,15,51.00748060000001,4.6269522,0,0,0,0,0,null,0,null,0,C,1682.9268292682927
