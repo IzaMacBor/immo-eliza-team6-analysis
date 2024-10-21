@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d7b3bdef2d99f09a5c2b0c6b0671b72c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d7b3bdef2d99f09a5c2b0c6b0671b72c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d7b3bdef2d99f09a5c2b0c6b0671b72c = L.map(
+                "map_d7b3bdef2d99f09a5c2b0c6b0671b72c",
+                {
+                    center: [50.8503, 4.3517],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2065b0efc0e637a01998fd04180724ac = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_2065b0efc0e637a01998fd04180724ac.addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+            var marker_42751ba395696458e13daac10b1cb2a6 = L.marker(
+                [51.2194, 4.4025],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_68c6e6d5a2b710babaaa0da6399de553 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_157aca587f38fe836ff5e040bd846cca = $(`<div id="html_157aca587f38fe836ff5e040bd846cca" style="width: 100.0%; height: 100.0%;"><strong>Antwerp</strong><br>Average Price: €442,723.09</div>`)[0];
+                popup_68c6e6d5a2b710babaaa0da6399de553.setContent(html_157aca587f38fe836ff5e040bd846cca);
+            
+        
+
+        marker_42751ba395696458e13daac10b1cb2a6.bindPopup(popup_68c6e6d5a2b710babaaa0da6399de553)
+        ;
+
+        
+    
+    
+            marker_42751ba395696458e13daac10b1cb2a6.bindTooltip(
+                `<div>
+                     Antwerp
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_78645bc21fe256602ffe177921555aa8 = L.marker(
+                [50.7167, 4.6167],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_2eabe2d428ccca8f3e08599fbbd20901 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_591735a74aa0db4c395c951f88f32ed9 = $(`<div id="html_591735a74aa0db4c395c951f88f32ed9" style="width: 100.0%; height: 100.0%;"><strong>Brabant_Wallon</strong><br>Average Price: €441,594.37</div>`)[0];
+                popup_2eabe2d428ccca8f3e08599fbbd20901.setContent(html_591735a74aa0db4c395c951f88f32ed9);
+            
+        
+
+        marker_78645bc21fe256602ffe177921555aa8.bindPopup(popup_2eabe2d428ccca8f3e08599fbbd20901)
+        ;
+
+        
+    
+    
+            marker_78645bc21fe256602ffe177921555aa8.bindTooltip(
+                `<div>
+                     Brabant_Wallon
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ad8dacb5799f3080484cd5d1a2711114 = L.marker(
+                [50.8503, 4.3517],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_c2a49cc068111bdef0885f0acb23e645 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_cdb6c86433c2f3941f806e58df94693e = $(`<div id="html_cdb6c86433c2f3941f806e58df94693e" style="width: 100.0%; height: 100.0%;"><strong>Brussels</strong><br>Average Price: €557,487.42</div>`)[0];
+                popup_c2a49cc068111bdef0885f0acb23e645.setContent(html_cdb6c86433c2f3941f806e58df94693e);
+            
+        
+
+        marker_ad8dacb5799f3080484cd5d1a2711114.bindPopup(popup_c2a49cc068111bdef0885f0acb23e645)
+        ;
+
+        
+    
+    
+            marker_ad8dacb5799f3080484cd5d1a2711114.bindTooltip(
+                `<div>
+                     Brussels
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ff1ee81f54c6021b2c1e94e42fdb400a = L.marker(
+                [51.0536, 3.7305],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_ca3c86b536a83d71f765a6c4d0dd7149 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_262703991c3ad58a8df5db363620a049 = $(`<div id="html_262703991c3ad58a8df5db363620a049" style="width: 100.0%; height: 100.0%;"><strong>East Flanders</strong><br>Average Price: €378,509.68</div>`)[0];
+                popup_ca3c86b536a83d71f765a6c4d0dd7149.setContent(html_262703991c3ad58a8df5db363620a049);
+            
+        
+
+        marker_ff1ee81f54c6021b2c1e94e42fdb400a.bindPopup(popup_ca3c86b536a83d71f765a6c4d0dd7149)
+        ;
+
+        
+    
+    
+            marker_ff1ee81f54c6021b2c1e94e42fdb400a.bindTooltip(
+                `<div>
+                     East Flanders
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dc300f4e3b9409687c5d27f1595c9e96 = L.marker(
+                [50.8796, 4.7009],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_397a13e8b5f55e415299e9634ca3f675 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_48030916013ecfa7b04be54d5d012c99 = $(`<div id="html_48030916013ecfa7b04be54d5d012c99" style="width: 100.0%; height: 100.0%;"><strong>Flemish Brabant</strong><br>Average Price: €439,802.11</div>`)[0];
+                popup_397a13e8b5f55e415299e9634ca3f675.setContent(html_48030916013ecfa7b04be54d5d012c99);
+            
+        
+
+        marker_dc300f4e3b9409687c5d27f1595c9e96.bindPopup(popup_397a13e8b5f55e415299e9634ca3f675)
+        ;
+
+        
+    
+    
+            marker_dc300f4e3b9409687c5d27f1595c9e96.bindTooltip(
+                `<div>
+                     Flemish Brabant
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4b297763b569039d3a4d97cf2d962b9d = L.marker(
+                [50.4562, 3.9523],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_330a515a76f473081cde47349027273e = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_3c80ec3fa2bde46e2a8fa0d83d1e3203 = $(`<div id="html_3c80ec3fa2bde46e2a8fa0d83d1e3203" style="width: 100.0%; height: 100.0%;"><strong>Hainaut</strong><br>Average Price: €303,454.27</div>`)[0];
+                popup_330a515a76f473081cde47349027273e.setContent(html_3c80ec3fa2bde46e2a8fa0d83d1e3203);
+            
+        
+
+        marker_4b297763b569039d3a4d97cf2d962b9d.bindPopup(popup_330a515a76f473081cde47349027273e)
+        ;
+
+        
+    
+    
+            marker_4b297763b569039d3a4d97cf2d962b9d.bindTooltip(
+                `<div>
+                     Hainaut
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9f2fbf4dab90477e88698aaf6d65bd3a = L.marker(
+                [50.9304, 5.3325],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_906bff22b2cc2d993fe05a665571da0e = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_5ffe71c2df389a5fc53668bdcffe888f = $(`<div id="html_5ffe71c2df389a5fc53668bdcffe888f" style="width: 100.0%; height: 100.0%;"><strong>Limburg</strong><br>Average Price: €418,723.08</div>`)[0];
+                popup_906bff22b2cc2d993fe05a665571da0e.setContent(html_5ffe71c2df389a5fc53668bdcffe888f);
+            
+        
+
+        marker_9f2fbf4dab90477e88698aaf6d65bd3a.bindPopup(popup_906bff22b2cc2d993fe05a665571da0e)
+        ;
+
+        
+    
+    
+            marker_9f2fbf4dab90477e88698aaf6d65bd3a.bindTooltip(
+                `<div>
+                     Limburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_104b968d695244781d355047289d3a03 = L.marker(
+                [50.6337, 5.5675],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_a40aff416f59e8c7ae7ab8e12ce6e423 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_9ed73e5de13b2140a22ebf17a74f7c7e = $(`<div id="html_9ed73e5de13b2140a22ebf17a74f7c7e" style="width: 100.0%; height: 100.0%;"><strong>Liège</strong><br>Average Price: €285,731.75</div>`)[0];
+                popup_a40aff416f59e8c7ae7ab8e12ce6e423.setContent(html_9ed73e5de13b2140a22ebf17a74f7c7e);
+            
+        
+
+        marker_104b968d695244781d355047289d3a03.bindPopup(popup_a40aff416f59e8c7ae7ab8e12ce6e423)
+        ;
+
+        
+    
+    
+            marker_104b968d695244781d355047289d3a03.bindTooltip(
+                `<div>
+                     Liège
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6cb42cca3bc969404e796e1bd04d1947 = L.marker(
+                [49.7333, 5.7333],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_4c9f221b3b289cb16ee366a736fb8c54 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_f827e57f5fd6353e66ebff788abf1453 = $(`<div id="html_f827e57f5fd6353e66ebff788abf1453" style="width: 100.0%; height: 100.0%;"><strong>Luxembourg</strong><br>Average Price: €322,187.46</div>`)[0];
+                popup_4c9f221b3b289cb16ee366a736fb8c54.setContent(html_f827e57f5fd6353e66ebff788abf1453);
+            
+        
+
+        marker_6cb42cca3bc969404e796e1bd04d1947.bindPopup(popup_4c9f221b3b289cb16ee366a736fb8c54)
+        ;
+
+        
+    
+    
+            marker_6cb42cca3bc969404e796e1bd04d1947.bindTooltip(
+                `<div>
+                     Luxembourg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_62c2935350131daf2042d543d7ba5eef = L.marker(
+                [50.4669, 4.8675],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_fdfa470583b57788fc03af910c05c92d = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_2f9acc0f112585fc8c12f74ac4f141de = $(`<div id="html_2f9acc0f112585fc8c12f74ac4f141de" style="width: 100.0%; height: 100.0%;"><strong>Namur</strong><br>Average Price: €258,950.04</div>`)[0];
+                popup_fdfa470583b57788fc03af910c05c92d.setContent(html_2f9acc0f112585fc8c12f74ac4f141de);
+            
+        
+
+        marker_62c2935350131daf2042d543d7ba5eef.bindPopup(popup_fdfa470583b57788fc03af910c05c92d)
+        ;
+
+        
+    
+    
+            marker_62c2935350131daf2042d543d7ba5eef.bindTooltip(
+                `<div>
+                     Namur
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8ce5248711bc490b1001c6910e5a6072 = L.marker(
+                [51.0512, 3.7303],
+                {}
+            ).addTo(map_d7b3bdef2d99f09a5c2b0c6b0671b72c);
+        
+    
+        var popup_05c81d1e435b5a553d41e73c19cf7c60 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_8e3863c6e0eabca2131c105d40d31fba = $(`<div id="html_8e3863c6e0eabca2131c105d40d31fba" style="width: 100.0%; height: 100.0%;"><strong>West Flanders</strong><br>Average Price: €347,847.98</div>`)[0];
+                popup_05c81d1e435b5a553d41e73c19cf7c60.setContent(html_8e3863c6e0eabca2131c105d40d31fba);
+            
+        
+
+        marker_8ce5248711bc490b1001c6910e5a6072.bindPopup(popup_05c81d1e435b5a553d41e73c19cf7c60)
+        ;
+
+        
+    
+    
+            marker_8ce5248711bc490b1001c6910e5a6072.bindTooltip(
+                `<div>
+                     West Flanders
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
