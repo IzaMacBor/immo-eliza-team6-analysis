@@ -63,3 +63,57 @@ This project is a team effort with the following contributors:
    - Highlight the most important variables that influence property prices.
    - Answer the key questions posed by Immo Eliza’s management regarding the real estate market and variable importance.
 
+## Repo structure
+
+```
+.
+├── analysis/
+│ └── Izabela.ipynb
+│ └── Petra.ipynb
+│ └── Rik.ipynb
+│ └── Team_6_Step_1_cleanup.ipynb
+│ └── Team_6_Step_2_enhancing.ipynb
+│ └── Team_6_Step_3a_outliers_num.ipynb
+│ └── Team_6_Step_3b_outliers_cat.ipynb
+│ └── Team_6_Step_4_correlation.ipynb
+│ └── Team_6_Step_4_visualization.ipynb
+├── data/
+│ └── clean/
+|        └── after_step_1_cleaning_houses.csv
+|        └── after_step_1_cleaning_houses.pkl
+|        └── after_step_1_cleaning.csv
+|        └── after_step_1_cleaning.csv
+|        └── after_step_2_enhancing.csv
+|        └── after_step_2_enhancing.pkl
+|        └── after_step_3a_outliers_num.csv
+|        └── after_step_3a_outliers_num.pkl
+|        └── after_step_3b_outliers_cat.csv
+|        └── after_step_3b_outliers_cat.pkl
+|        └── after_step_4_correlation.csv
+|        └── after_step_4_correlation.pkl
+| └── raw/ 
+|        └── immo_scraper_merged_test.csv       
+├── reports
+|        └── BeCode Immo Team 6.pdf
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
+## Usage
+
+1. **Clone the repository**:
+
+2. **Create a virtual environment (optional but recommended)**
+
+3. **Install the required libraries**
+   - Check `requirements.txt`.
+
+4. **Start in `analysis` folder:**
+   - Run the notebooks from `Step 1` to `Step 5`
+
+5. **Clean data**:
+   - The clean data are saved in `after_step_4_correlation.csv`.
+
+6. **Report**:
+   - Here you can find our resultat and conclusions.
