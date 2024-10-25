@@ -68,9 +68,11 @@ This project is a team effort with the following contributors:
 ```
 .
 ├── analysis/
-│ └── Izabela.ipynb
-│ └── Petra.ipynb
-│ └── Rik.ipynb
+│ └── personal_notebooks/
+│                    └── Izabela.ipynb
+│                    └── Petra.ipynb
+│                    └── Rik.ipynb
+│                    └── Tom.ipynb
 │ └── Team_6_Step_1_cleanup.ipynb
 │ └── Team_6_Step_2_enhancing.ipynb
 │ └── Team_6_Step_3a_outliers_num.ipynb
